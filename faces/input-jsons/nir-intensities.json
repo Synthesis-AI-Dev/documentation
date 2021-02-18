@@ -1,0 +1,181 @@
+{
+  "render": {
+    "resolution": {
+      "w": 512,
+      "h": 512
+    }
+  },
+  "faces": [
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 1
+      },
+      "camera": {
+        "location": {
+          "depth_meters": { "type": "list", "values": [1.5] }
+        },
+        "focal_length": { "type": "list", "values": [18.0] },
+        "wavelength_nir": {
+          "colocated_emitter": {
+            "size_meters": 1.0,
+            "intensity": 1.0
+          },
+          "percent": 100
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 1
+      },
+      "camera": {
+        "location": {
+          "depth_meters": { "type": "list", "values": [1.5] }
+        },
+        "focal_length": { "type": "list", "values": [18.0] },
+        "wavelength_nir": {
+          "colocated_emitter": {
+            "size_meters": 1.0,
+            "intensity": 2.0
+          },
+          "percent": 100
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 1
+      },
+      "camera": {
+        "location": {
+          "depth_meters": { "type": "list", "values": [1.5] }
+        },
+        "focal_length": { "type": "list", "values": [18.0] },
+        "wavelength_nir": {
+          "colocated_emitter": {
+            "size_meters": 1.0,
+            "intensity": 3.0
+          },
+          "percent": 100
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 1
+      },
+      "camera": {
+        "location": {
+          "depth_meters": { "type": "list", "values": [1.5] }
+        },
+        "focal_length": { "type": "list", "values": [18.0] },
+        "wavelength_nir": {
+          "colocated_emitter": {
+            "size_meters": 1.0,
+            "intensity": 4.0
+          },
+          "percent": 100
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 1
+      },
+      "camera": {
+        "location": {
+          "depth_meters": { "type": "list", "values": [1.5] }
+        },
+        "focal_length": { "type": "list", "values": [18.0] },
+        "wavelength_nir": {
+          "colocated_emitter": {
+            "size_meters": 1.0,
+            "intensity": 5.0
+          },
+          "percent": 100
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 1
+      },
+      "camera": {
+        "location": {
+          "depth_meters": { "type": "list", "values": [1.5] }
+        },
+        "focal_length": { "type": "list", "values": [18.0] },
+        "wavelength_nir": {
+          "colocated_emitter": {
+            "size_meters": 1.0,
+            "intensity": 6.0
+          },
+          "percent": 100
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 1
+      },
+      "camera": {
+        "location": {
+          "depth_meters": { "type": "list", "values": [1.5] }
+        },
+        "focal_length": { "type": "list", "values": [18.0] },
+        "wavelength_nir": {
+          "colocated_emitter": {
+            "size_meters": 1.0,
+            "intensity": 7.0
+          },
+          "percent": 100
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 1
+      },
+      "camera": {
+        "location": {
+          "depth_meters": { "type": "list", "values": [1.5] }
+        },
+        "focal_length": { "type": "list", "values": [18.0] },
+        "wavelength_nir": {
+          "colocated_emitter": {
+            "size_meters": 1.0,
+            "intensity": 8.0
+          },
+          "percent": 100
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 1
+      },
+      "camera": {
+        "location": {
+          "depth_meters": { "type": "list", "values": [1.5] }
+        },
+        "focal_length": { "type": "list", "values": [18.0] },
+        "wavelength_nir": {
+          "colocated_emitter": {
+            "size_meters": 1.0,
+            "intensity": 9.0
+          },
+          "percent": 100
+        }
+      }
+    }
+  ]
+}

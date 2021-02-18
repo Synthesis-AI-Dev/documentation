@@ -1,0 +1,40 @@
+{
+  "render": {
+    "resolution": {
+      "w": 512,
+      "h": 512
+    }
+  },
+  "faces": [
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 100
+      },
+      "facial_attributes": {},
+      "accessories": {
+        "glasses": [{
+          "style": ["male_plastic_aviator"],
+          "lens_color": ["all"],
+          "gender_matched_only": false,
+          "percent": 100
+        }],
+        "headwear": [{
+          "style": ["none"],
+          "percent": 100
+        }],
+        "masks": [{
+          "style": ["none"],
+          "percent": 100
+        }]
+      },
+      "camera": {
+        "location": {
+          "depth_meters": { "type": "list", "values": [1.5] }
+        },
+        "focal_length": { "type": "list", "values": [18.0] },
+        "wavelength_vs": { "percent": 100 }
+      }
+    }
+  ]
+}

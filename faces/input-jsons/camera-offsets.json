@@ -1,0 +1,27 @@
+{
+  "render": {
+    "resolution": {
+      "w": 512,
+      "h": 512
+    }
+  },
+  "faces": [
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 100
+      },
+      "camera": {
+        "location": {
+          "horizontal_angle": { "type": "list", "values": [0] },
+          "vertical_angle": { "type": "list", "values": [0] },
+          "offset_horizontal": { "type": "range", "values": {"min": -0.15, "max": 0.15 }},
+          "offset_vertical": { "type": "range", "values": {"min": -0.15, "max": 0.15 }},
+          "depth_meters": { "type": "list", "values": [1.5] }
+        },
+        "focal_length": { "type": "list", "values": [18.0] },
+        "wavelength_vs": { "percent": 100 }
+      }
+    }
+  ]
+}

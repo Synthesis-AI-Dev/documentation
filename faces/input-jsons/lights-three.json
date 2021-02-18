@@ -1,0 +1,65 @@
+{
+  "render": {
+    "resolution": {
+      "w": 512,
+      "h": 512
+    }
+  },
+  "faces": [
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 1
+      },
+      "environment": {
+        "hdri": {
+          "name": ["waterfall"],
+          "intensity": { "type": "list", "values": [0.3]},
+          "rotation": { "type": "list", "values":  [0]}
+        },
+        "lights": [
+          {
+            "light1": {
+              "color_r": { "type": "list", "values": [255.0] },
+              "color_g": { "type": "list", "values": [0.0] },
+              "color_b": { "type": "list", "values": [0.0] },
+              "rotation_x": { "type": "list", "values": [-45.0] },
+              "rotation_y": { "type": "list", "values": [0.0] },
+              "distance_meters": { "type": "list", "values": [1.0] },
+              "intensity": { "type": "list", "values": [0.7] },
+              "size_meters": { "type": "list", "values": [0.1]  }
+            },
+            "light2": {
+              "color_r": { "type": "list", "values": [0.0] },
+              "color_g": { "type": "list", "values": [255.0] },
+              "color_b": { "type": "list", "values": [0.0] },
+              "rotation_x": { "type": "list", "values": [45.0] },
+              "rotation_y": { "type": "list", "values": [0.0] },
+              "distance_meters": { "type": "list", "values": [1.0] },
+              "intensity": { "type": "list", "values": [0.7] },
+              "size_meters": { "type": "list", "values": [0.1]  }
+            },
+            "light3": {
+              "color_r": { "type": "list", "values": [0.0] },
+              "color_g": { "type": "list", "values": [0.0] },
+              "color_b": { "type": "list", "values": [255.0] },
+              "rotation_x": { "type": "list", "values": [0.0] },
+              "rotation_y": { "type": "list", "values": [45.0] },
+              "distance_meters": { "type": "list", "values": [1.0] },
+              "intensity": { "type": "list", "values": [0.7] },
+              "size_meters": { "type": "list", "values": [0.1]  }
+            },
+            "percent": 100
+          }
+        ]
+      },
+      "camera": {
+        "location": {
+          "depth_meters": { "type": "list", "values": [1.5] }
+        },
+        "focal_length": { "type": "list", "values": [18.0] },
+        "wavelength_vs": { "percent": 100 }
+      }
+    }
+  ]
+}

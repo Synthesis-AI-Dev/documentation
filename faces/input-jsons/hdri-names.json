@@ -1,0 +1,30 @@
+{
+  "render": {
+    "resolution": {
+      "w": 512,
+      "h": 512
+    }
+  },
+  "faces": [
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 300
+      },
+      "environment": {
+        "hdri": {
+          "name": ["all"],
+          "intensity": { "type": "list", "values": [1]},
+          "rotation": { "type": "list", "values":  [0]}
+        }
+      },
+      "camera": {
+        "location": {
+          "depth_meters": { "type": "list", "values": [1.5] }
+        },
+        "focal_length": { "type": "list", "values": [18.0] },
+        "wavelength_vs": { "percent": 100 }
+      }
+    }
+  ]
+}
