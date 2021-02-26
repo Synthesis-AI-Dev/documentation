@@ -133,7 +133,9 @@
           "offset_vertical": { "type": "range", "values": {"min": -0.2, "max": 0.2 }},
           "depth_meters": { "type": "range", "values": {"min": 0.2, "max": 1.5 }}
         },
-        "focal_length": { "type": "range", "values": {"min": 1, "max": 18 }},
+        "specifications": {
+          "focal_length": { "type": "range", "values": {"min": 1, "max": 18 }}
+        },
         "wavelength_vs": {
           "percent": 90
         },

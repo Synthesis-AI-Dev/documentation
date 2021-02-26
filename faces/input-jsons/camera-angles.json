@@ -14,10 +14,8 @@
       "camera": {
         "location": {
           "horizontal_angle": { "type": "range", "values": {"min": -100.0, "max": 100.0 }},
-          "vertical_angle": { "type": "range", "values": {"min": -100.0, "max": 100.0 }},
-          "depth_meters": { "type": "list", "values": [1.5] }
+          "vertical_angle": { "type": "range", "values": {"min": -100.0, "max": 100.0 }}
         },
-        "focal_length": { "type": "list", "values": [18.0] },
         "wavelength_vs": { "percent": 100 }
       }
     }

@@ -12,10 +12,6 @@
         "renders_per_identity": 1
       },
       "camera": {
-        "location": {
-          "depth_meters": { "type": "list", "values": [1.5] }
-        },
-        "focal_length": { "type": "list", "values": [18.0] },
         "wavelength_nir": {
           "colocated_emitter": {
             "size_meters": 1.0,
@@ -31,10 +27,6 @@
         "renders_per_identity": 1
       },
       "camera": {
-        "location": {
-          "depth_meters": { "type": "list", "values": [1.5] }
-        },
-        "focal_length": { "type": "list", "values": [18.0] },
         "wavelength_nir": {
           "colocated_emitter": {
             "size_meters": 1.0,
@@ -50,10 +42,6 @@
         "renders_per_identity": 1
       },
       "camera": {
-        "location": {
-          "depth_meters": { "type": "list", "values": [1.5] }
-        },
-        "focal_length": { "type": "list", "values": [18.0] },
         "wavelength_nir": {
           "colocated_emitter": {
             "size_meters": 1.0,
@@ -69,10 +57,6 @@
         "renders_per_identity": 1
       },
       "camera": {
-        "location": {
-          "depth_meters": { "type": "list", "values": [1.5] }
-        },
-        "focal_length": { "type": "list", "values": [18.0] },
         "wavelength_nir": {
           "colocated_emitter": {
             "size_meters": 1.0,
@@ -88,10 +72,6 @@
         "renders_per_identity": 1
       },
       "camera": {
-        "location": {
-          "depth_meters": { "type": "list", "values": [1.5] }
-        },
-        "focal_length": { "type": "list", "values": [18.0] },
         "wavelength_nir": {
           "colocated_emitter": {
             "size_meters": 1.0,
@@ -107,10 +87,6 @@
         "renders_per_identity": 1
       },
       "camera": {
-        "location": {
-          "depth_meters": { "type": "list", "values": [1.5] }
-        },
-        "focal_length": { "type": "list", "values": [18.0] },
         "wavelength_nir": {
           "colocated_emitter": {
             "size_meters": 1.0,
@@ -126,10 +102,6 @@
         "renders_per_identity": 1
       },
       "camera": {
-        "location": {
-          "depth_meters": { "type": "list", "values": [1.5] }
-        },
-        "focal_length": { "type": "list", "values": [18.0] },
         "wavelength_nir": {
           "colocated_emitter": {
             "size_meters": 1.0,
@@ -145,10 +117,6 @@
         "renders_per_identity": 1
       },
       "camera": {
-        "location": {
-          "depth_meters": { "type": "list", "values": [1.5] }
-        },
-        "focal_length": { "type": "list", "values": [18.0] },
         "wavelength_nir": {
           "colocated_emitter": {
             "size_meters": 1.0,
@@ -164,10 +132,6 @@
         "renders_per_identity": 1
       },
       "camera": {
-        "location": {
-          "depth_meters": { "type": "list", "values": [1.5] }
-        },
-        "focal_length": { "type": "list", "values": [18.0] },
         "wavelength_nir": {
           "colocated_emitter": {
             "size_meters": 1.0,

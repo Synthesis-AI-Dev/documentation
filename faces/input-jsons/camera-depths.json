@@ -19,7 +19,6 @@
           "offset_vertical": { "type": "list", "values": [0] },
           "depth_meters": { "type": "range", "values": {"min": 0.7, "max": 1.5 } }
         },
-        "focal_length": { "type": "list", "values": [18.0] },
         "wavelength_vs": { "percent": 100 }
       }
     }

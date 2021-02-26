@@ -34,10 +34,6 @@
         ]
       },
       "camera": {
-        "location": {
-          "depth_meters": { "type": "list", "values": [1.5] }
-        },
-        "focal_length": { "type": "list", "values": [18.0] },
         "wavelength_vs": { "percent": 100 }
       }
     }

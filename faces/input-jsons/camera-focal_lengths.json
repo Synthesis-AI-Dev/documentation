@@ -17,9 +17,11 @@
           "vertical_angle": { "type": "list", "values": [0] },
           "offset_horizontal": { "type": "list", "values": [0] },
           "offset_vertical": { "type": "list", "values": [0] },
-          "depth_meters": { "type": "list", "values": [1.5] }
+          "depth_meters": { "type": "list", "values": [1.0] }
         },
-        "focal_length": { "type": "range", "values": {"min": 5, "max": 35 } },
+        "specifications": {
+          "focal_length": { "type": "range", "values": {"min": 50, "max": 150 } }
+        },
         "wavelength_vs": { "percent": 100 }
       }
     }
