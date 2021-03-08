@@ -24,10 +24,22 @@ Valid glasses colors:
 ```json
 [
   "default",
-	"clear",
-	"blue",
-	"red",
-	"grey",
-	"grey_trans"
+  "black",
+  "white",
+  "blue",
+  "red",
+  "pink",
+  "green",
+  "yellow",
+  "orange",
+  "orange_red",
+  "gray",
+  "brown",
+  "silver",
+  "rose_gold",
+  "ice_blue",
+  "purple",
+  "gold",
+  "rose_red"
 ]
 ```
