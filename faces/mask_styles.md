@@ -24,3 +24,14 @@ Valid mask styles:
   "Surgical"
 ]
 ```
+
+Valid mask positions:
+
+```json
+[
+	"0",
+	"1",
+	"2",
+	"3",
+	"4"
+]
