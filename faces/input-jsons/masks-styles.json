@@ -23,6 +23,7 @@
         }],
         "masks": [{
           "style": ["all"],
+          "position": ["all"],
           "percent": 100
         }]
       },
