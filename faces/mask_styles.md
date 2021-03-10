@@ -35,3 +35,16 @@ Valid mask positions:
 	"3",
 	"4"
 ]
+```
+
+Valid mask variants:
+
+```json
+[
+	"0",
+	"1",
+	"2",
+	"3",
+	"4"
+]
+```
