@@ -1,0 +1,252 @@
+{
+  "render": {
+    "resolution": {
+      "w": 512,
+      "h": 512
+    }
+  },
+  "faces": [{
+      "identities": {
+        "ids": [75, 80],
+        "renders_per_identity": 1
+      },
+      "facial_attributes": {
+        "hair": [{
+          "style": ["male_hair_fauxhawk_1", "male_hair_short_curly_1", "female_hair_long_generic_1"],
+          "color": ["chocolate_brown"],
+          "gender_matched_only": true,
+          "ethnicity_matched_only": true,
+          "relative_length": {
+            "type": "list",
+            "values": [1.0]
+          },
+          "relative_density": {
+            "type": "list",
+            "values": [1.0]
+          },
+          "percent": 100
+        }]
+      },
+      "body": {
+        "enabled": ["true"],
+        "type": ["0"]
+      },
+      "clothing": {
+        "enabled": ["true"],
+        "type": ["4"],
+        "variant": ["3"]
+      },
+      "environment": {
+        "hdri": {
+          "name": ["lauter_waterfall"]
+        }
+      },
+      "camera": {
+        "location": {
+          "depth_meters": {
+            "type": "list",
+            "values": [2]
+          }
+        },
+        "wavelength_vs": {
+          "percent": 100
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [75, 80],
+        "renders_per_identity": 1
+      },
+      "facial_attributes": {
+        "hair": [{
+          "style": ["male_hair_fauxhawk_1", "male_hair_short_curly_1", "female_hair_long_generic_1"],
+          "color": ["chocolate_brown"],
+          "gender_matched_only": true,
+          "ethnicity_matched_only": true,
+          "relative_length": {
+            "type": "list",
+            "values": [1.0]
+          },
+          "relative_density": {
+            "type": "list",
+            "values": [1.0]
+          },
+          "percent": 100
+        }]
+      },
+      "body": {
+        "enabled": ["true"],
+        "type": ["1"]
+      },
+      "clothing": {
+        "enabled": ["true"],
+        "type": ["4"],
+        "variant": ["3"]
+      },
+      "environment": {
+        "hdri": {
+          "name": ["lauter_waterfall"]
+        }
+      },
+      "camera": {
+        "location": {
+          "depth_meters": {
+            "type": "list",
+            "values": [2]
+          }
+        },
+        "wavelength_vs": {
+          "percent": 100
+        }
+      }
+    },
+
+    {
+      "identities": {
+        "ids": [75, 80],
+        "renders_per_identity": 1
+      },
+      "facial_attributes": {
+        "hair": [{
+          "style": ["male_hair_fauxhawk_1", "male_hair_short_curly_1", "female_hair_long_generic_1"],
+          "color": ["chocolate_brown"],
+          "gender_matched_only": true,
+          "ethnicity_matched_only": true,
+          "relative_length": {
+            "type": "list",
+            "values": [1.0]
+          },
+          "relative_density": {
+            "type": "list",
+            "values": [1.0]
+          },
+          "percent": 100
+        }]
+      },
+      "body": {
+        "enabled": ["true"],
+        "type": ["2"]
+      },
+      "clothing": {
+        "enabled": ["true"],
+        "type": ["4"],
+        "variant": ["3"]
+      },
+      "environment": {
+        "hdri": {
+          "name": ["lauter_waterfall"]
+        }
+      },
+      "camera": {
+        "location": {
+          "depth_meters": {
+            "type": "list",
+            "values": [2]
+          }
+        },
+        "wavelength_vs": {
+          "percent": 100
+        }
+      }
+    },
+
+    {
+      "identities": {
+        "ids": [75, 80],
+        "renders_per_identity": 1
+      },
+      "facial_attributes": {
+        "hair": [{
+          "style": ["male_hair_fauxhawk_1", "male_hair_short_curly_1", "female_hair_long_generic_1"],
+          "color": ["chocolate_brown"],
+          "gender_matched_only": true,
+          "ethnicity_matched_only": true,
+          "relative_length": {
+            "type": "list",
+            "values": [1.0]
+          },
+          "relative_density": {
+            "type": "list",
+            "values": [1.0]
+          },
+          "percent": 100
+        }]
+      },
+      "body": {
+        "enabled": ["true"],
+        "type": ["3"]
+      },
+      "clothing": {
+        "enabled": ["true"],
+        "type": ["4"],
+        "variant": ["3"]
+      },
+      "environment": {
+        "hdri": {
+          "name": ["lauter_waterfall"]
+        }
+      },
+      "camera": {
+        "location": {
+          "depth_meters": {
+            "type": "list",
+            "values": [2]
+          }
+        },
+        "wavelength_vs": {
+          "percent": 100
+        }
+      }
+    },
+
+    {
+      "identities": {
+        "ids": [75, 80],
+        "renders_per_identity": 1
+      },
+      "facial_attributes": {
+        "hair": [{
+          "style": ["male_hair_fauxhawk_1", "male_hair_short_curly_1", "female_hair_long_generic_1"],
+          "color": ["chocolate_brown"],
+          "gender_matched_only": true,
+          "ethnicity_matched_only": true,
+          "relative_length": {
+            "type": "list",
+            "values": [1.0]
+          },
+          "relative_density": {
+            "type": "list",
+            "values": [1.0]
+          },
+          "percent": 100
+        }]
+      },
+      "body": {
+        "enabled": ["true"],
+        "type": ["4"]
+      },
+      "clothing": {
+        "enabled": ["true"],
+        "type": ["4"],
+        "variant": ["3"]
+      },
+      "environment": {
+        "hdri": {
+          "name": ["lauter_waterfall"]
+        }
+      },
+      "camera": {
+        "location": {
+          "depth_meters": {
+            "type": "list",
+            "values": [2]
+          }
+        },
+        "wavelength_vs": {
+          "percent": 100
+        }
+      }
+    }
+  ]
+}
