@@ -1,0 +1,39 @@
+{
+  "render": {
+    "resolution": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "faces": [
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 60
+      },
+      "facial_attributes": {},
+      "accessories": {
+        "glasses": [{
+          "style": ["male_wire_round_frame"],
+          "lens_color": ["default"],
+          "transparency": { "type": "list", "values": [0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0]},
+          "gender_matched_only": true,
+          "percent": 100
+        }],
+        "headwear": [{
+          "style": ["none"],
+          "percent": 100
+        }],
+        "masks": [{
+          "style": ["none"],
+          "percent": 100
+        }]
+      },
+      "environment": {
+        "location": {
+          "enabled": ["false"]
+        }
+      }
+    }
+  ]
+}
