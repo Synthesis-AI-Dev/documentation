@@ -4,7 +4,7 @@ Valid expression names:
 
 ```json
 [
-  "eyebrows_raised",
+    "eyebrows_raised",
 	"eyebrows_lower",
 	"eyebrows_frown",
 	"eyes_squint",
