@@ -15,7 +15,7 @@
       "accessories": {
         "glasses": [{
           "style": ["all"],
-          "lens_color": ["clear"],
+          "lens_color": ["default"],
           "gender_matched_only": true,
           "percent": 100
         }],
