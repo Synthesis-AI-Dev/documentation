@@ -14,10 +14,121 @@
       "camera": {
         "wavelength_nir": {
           "colocated_emitter": {
-            "size_meters": 1.0,
-            "intensity": 4.0
+            "size_meters": 0.25,
+            "intensity": 0.5
           },
           "percent": 100
+        },
+        "wavelength_vs": {
+            "percent": 0
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 1
+      },
+      "camera": {
+        "wavelength_nir": {
+          "colocated_emitter": {
+            "size_meters": 0.5,
+            "intensity": 0.5
+          },
+          "percent": 100
+        },
+        "wavelength_vs": {
+            "percent": 0
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 1
+      },
+      "camera": {
+        "wavelength_nir": {
+          "colocated_emitter": {
+            "size_meters": 0.75,
+            "intensity": 0.5
+          },
+          "percent": 100
+        },
+        "wavelength_vs": {
+            "percent": 0
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 1
+      },
+      "camera": {
+        "wavelength_nir": {
+          "colocated_emitter": {
+            "size_meters": 1,
+            "intensity": 0.5
+          },
+          "percent": 100
+        },
+        "wavelength_vs": {
+            "percent": 0
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 1
+      },
+      "camera": {
+        "wavelength_nir": {
+          "colocated_emitter": {
+            "size_meters": 1.25,
+            "intensity": 0.5
+          },
+          "percent": 100
+        },
+        "wavelength_vs": {
+            "percent": 0
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 1
+      },
+      "camera": {
+        "wavelength_nir": {
+          "colocated_emitter": {
+            "size_meters": 1.5,
+            "intensity": 0.5
+          },
+          "percent": 100
+        },
+        "wavelength_vs": {
+            "percent": 0
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 1
+      },
+      "camera": {
+        "wavelength_nir": {
+          "colocated_emitter": {
+            "size_meters": 1.75,
+            "intensity": 0.5
+          },
+          "percent": 100
+        },
+        "wavelength_vs": {
+            "percent": 0
         }
       }
     },
@@ -30,9 +141,12 @@
         "wavelength_nir": {
           "colocated_emitter": {
             "size_meters": 2.0,
-            "intensity": 4.0
+            "intensity": 0.5
           },
           "percent": 100
+        },
+        "wavelength_vs": {
+            "percent": 0
         }
       }
     },
@@ -45,99 +159,12 @@
         "wavelength_nir": {
           "colocated_emitter": {
             "size_meters": 3.0,
-            "intensity": 4.0
+            "intensity": 0.5
           },
           "percent": 100
-        }
-      }
-    },
-    {
-      "identities": {
-        "ids": [80],
-        "renders_per_identity": 1
-      },
-      "camera": {
-        "wavelength_nir": {
-          "colocated_emitter": {
-            "size_meters": 4.0,
-            "intensity": 4.0
-          },
-          "percent": 100
-        }
-      }
-    },
-    {
-      "identities": {
-        "ids": [80],
-        "renders_per_identity": 1
-      },
-      "camera": {
-        "wavelength_nir": {
-          "colocated_emitter": {
-            "size_meters": 5.0,
-            "intensity": 4.0
-          },
-          "percent": 100
-        }
-      }
-    },
-    {
-      "identities": {
-        "ids": [80],
-        "renders_per_identity": 1
-      },
-      "camera": {
-        "wavelength_nir": {
-          "colocated_emitter": {
-            "size_meters": 6.0,
-            "intensity": 4.0
-          },
-          "percent": 100
-        }
-      }
-    },
-    {
-      "identities": {
-        "ids": [80],
-        "renders_per_identity": 1
-      },
-      "camera": {
-        "wavelength_nir": {
-          "colocated_emitter": {
-            "size_meters": 7.0,
-            "intensity": 4.0
-          },
-          "percent": 100
-        }
-      }
-    },
-    {
-      "identities": {
-        "ids": [80],
-        "renders_per_identity": 1
-      },
-      "camera": {
-        "wavelength_nir": {
-          "colocated_emitter": {
-            "size_meters": 8.0,
-            "intensity": 4.0
-          },
-          "percent": 100
-        }
-      }
-    },
-    {
-      "identities": {
-        "ids": [80],
-        "renders_per_identity": 1
-      },
-      "camera": {
-        "wavelength_nir": {
-          "colocated_emitter": {
-            "size_meters": 9.0,
-            "intensity": 4.0
-          },
-          "percent": 100
+        },
+        "wavelength_vs": {
+            "percent": 0
         }
       }
     }

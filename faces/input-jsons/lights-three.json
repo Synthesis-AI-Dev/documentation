@@ -13,7 +13,7 @@
       },
       "environment": {
         "hdri": {
-          "name": ["waterfall"],
+          "name": ["blue_grotto"],
           "intensity": { "type": "list", "values": [0.3]},
           "rotation": { "type": "list", "values":  [0]}
         },

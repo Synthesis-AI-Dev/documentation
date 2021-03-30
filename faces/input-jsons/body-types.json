@@ -5,7 +5,8 @@
       "h": 512
     }
   },
-  "faces": [{
+  "faces": [
+    {
       "identities": {
         "ids": [75, 80],
         "renders_per_identity": 1
@@ -53,6 +54,7 @@
         }
       }
     },
+
     {
       "identities": {
         "ids": [75, 80],
