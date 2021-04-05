@@ -7,8 +7,8 @@ Bodies & Clothing: Valid body types/clothing types/clothing variants
 Expression Names: Valid expression names
 
 ### input-jsons — Facial JSON data, including:
-body-types.json
-camera-angles.json
-camera-depths.json...
-
+body-types.json<br />
+camera-angles.json<br />
+camera-depths.json...<br />
+<br />
 etc.
