@@ -27,7 +27,8 @@ Headwear Styles: Valid headwear styles
 ### mask_styles.md
 Mask Styles: Valid mask styles/mask positions/mask variants
 
-### input-jsons — Facial JSON data, including:
+# input-jsons 
+Sample input JSON files, typically for changing a small subset or single parameter, including:
 body-types.json<br />
 camera-angles.json<br />
 camera-depths.json<br />
@@ -62,7 +63,9 @@ nir-intensities.json<br />
 nir-sizes.json<br />
 
 
-### input-jsons — Facial example files, including:
+# sample-outputs
+A single render's output image and label files, including:
+
 188.alpha.tif<br />
 188.depth.tif<br />
 188.exr<br />
