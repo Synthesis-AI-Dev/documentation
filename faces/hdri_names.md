@@ -504,6 +504,6 @@ Valid HDRI names:
   "yaris_interior_garage",
   "yellow_field",
   "zhengyang_gate",
-  "zwinger_night",
+  "zwinger_night"
 ]
 ```
