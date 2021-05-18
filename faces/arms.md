@@ -1,0 +1,58 @@
+Available Hand Gestures:
+```
+[
+  "block_stop",
+  "fist",
+  "flat_hand",
+  "frame_director",
+  "give_business_card",
+  "hold_big_object",
+  "hold_magazine",
+  "hold_medium_object",
+  "hold_paper",
+  "hold_pen",
+  "hold_small_object",
+  "hold_smartphone",
+  "hold_tablet",
+  "hold_tool_medium",
+  "hold_tool_thick",
+  "hold_tool_thin",
+  "hold_water_single",
+  "hold_water",
+  "little_spread",
+  "number_five",
+  "number_four",
+  "number_one",
+  "number_three",
+  "number_two",
+  "open_wave",
+  "pinch",
+  "point",
+  "relaxed_hold",
+  "relaxed_spread",
+  "shake_hand",
+  "show_keyring_card",
+  "show_large_object",
+  "show_medium_object",
+  "show_small_object",
+  "show_three_fingers",
+  "thumb_up",
+  "typing_a",
+  "typing_b",
+  "victory",
+  "widespread_hold_ball"
+]
+```
+
+
+Available Held Objects:
+```
+[
+  "phone",
+  "sunglasses",
+  "marker",
+  "notebook",
+  "pen",
+  "teacup"
+]
+```
