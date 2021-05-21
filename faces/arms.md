@@ -1,5 +1,6 @@
 Available Hand Gestures:
-```
+
+```json
 [
   "block_stop",
   "fist",
@@ -44,7 +45,21 @@ Available Hand Gestures:
 ]
 ```
 
-| gesture      | can hold item? |
+
+
+Available Held Objects:
+```json
+[
+  "phone",
+  "sunglasses",
+  "marker",
+  "notebook",
+  "pen",
+  "teacup"
+]
+```
+
+| gesture      | can hold object? |
 | ----------- | ----------- |
 | block_stop   | no |
 | fist   | no |
@@ -87,17 +102,3 @@ Available Hand Gestures:
 | victory    | no |
 | widespread_hold_ball   | yes |
 ]
-```
-
-
-Available Held Objects:
-```
-[
-  "phone",
-  "sunglasses",
-  "marker",
-  "notebook",
-  "pen",
-  "teacup"
-]
-```
