@@ -1,5 +1,6 @@
 Available Hand Gestures:
-```
+
+```json
 [
   "block_stop",
   "fist",
@@ -45,8 +46,9 @@ Available Hand Gestures:
 ```
 
 
+
 Available Held Objects:
-```
+```json
 [
   "phone",
   "sunglasses",
@@ -56,3 +58,47 @@ Available Held Objects:
   "teacup"
 ]
 ```
+
+| gesture      | can hold object? |
+| ----------- | ----------- |
+| block_stop   | no |
+| fist   | no |
+| flat_hand    | no |
+| frame_director   | no |
+| give_business_card   | yes |
+| hold_big_object    | yes |
+| hold_magazine    | yes |
+| hold_medium_object   | yes |
+| hold_paper   | yes |
+| hold_pen   | yes |
+| hold_small_object    | yes |
+| hold_smartphone    | yes |
+| hold_tablet    | yes |
+| hold_tool_medium   | yes |
+| hold_tool_thick    | yes |
+| hold_tool_thin   | yes |
+| hold_water_single    | yes |
+| hold_water   | yes |
+| little_spread    | yes |
+| number_five    | no |
+| number_four    | no |
+| number_one   | no |
+| number_three   | no |
+| number_two   | no |
+| open_wave    | yes |
+| pinch    | no |
+| point    | no |
+| relaxed_hold   | yes |
+| relaxed_spread   | yes |
+| shake_hand   | yes |
+| show_keyring_card    | yes |
+| show_large_object    | yes |
+| show_medium_object   | yes |
+| show_small_object    | yes |
+| show_three_fingers   | yes |
+| thumb_up   | no |
+| typing_a   | yes |
+| typing_b   | yes |
+| victory    | no |
+| widespread_hold_ball   | yes |
+]
