@@ -1,16 +1,4 @@
-# Bodies & Clothing
-
-Valid body types:
-
-```json
-[
-  "0",
-  "1",
-  "2",
-  "3",
-  "4",
-]
-```
+# Clothing
 
 Valid clothing types:
 
