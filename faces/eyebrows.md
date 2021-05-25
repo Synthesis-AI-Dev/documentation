@@ -1,4 +1,4 @@
-Available Male Eyebrow Styles:
+Available male eyebrow styles:
 
 ```json
 [
@@ -23,10 +23,11 @@ Available Male Eyebrow Styles:
 "male_messy_high_1"
 "male_messy_wide_1"
 "male_messy_unibrow_1"
+
 ]
 ```
 
-Available Female Eyebrow Styles:
+Available female eyebrow styles:
 
 ```json
 [
