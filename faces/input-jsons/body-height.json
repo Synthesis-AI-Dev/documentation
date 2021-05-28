@@ -1,0 +1,213 @@
+{
+  "render": {
+    "resolution": {
+      "w": 512,
+      "h": 512
+    }
+  },
+  "faces": [
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "match_id_body_type": false,
+          "height": [
+            "shortest"
+          ],
+          "percent": 100
+        }
+      ],
+      "camera": {
+        "specifications": {
+          "focal_length": {
+            "type": "list",
+            "values": [
+              28
+            ]
+          }
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "match_id_body_type": false,
+          "height": [
+            "shorter"
+          ],
+          "percent": 100
+        }
+      ],
+      "camera": {
+        "specifications": {
+          "focal_length": {
+            "type": "list",
+            "values": [
+              28
+            ]
+          }
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "match_id_body_type": false,
+          "height": [
+            "short"
+          ],
+          "percent": 100
+        }
+      ],
+      "camera": {
+        "specifications": {
+          "focal_length": {
+            "type": "list",
+            "values": [
+              28
+            ]
+          }
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "match_id_body_type": false,
+          "height": [
+            "median"
+          ],
+          "percent": 100
+        }
+      ],
+      "camera": {
+        "specifications": {
+          "focal_length": {
+            "type": "list",
+            "values": [
+              28
+            ]
+          }
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "match_id_body_type": false,
+          "height": [
+            "tall"
+          ],
+          "percent": 100
+        }
+      ],
+      "camera": {
+        "specifications": {
+          "focal_length": {
+            "type": "list",
+            "values": [
+              28
+            ]
+          }
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "match_id_body_type": false,
+          "height": [
+            "taller"
+          ],
+          "percent": 100
+        }
+      ],
+      "camera": {
+        "specifications": {
+          "focal_length": {
+            "type": "list",
+            "values": [
+              28
+            ]
+          }
+        }
+      }
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "match_id_body_type": false,
+          "height": [
+            "tallest"
+          ],
+          "percent": 100
+        }
+      ],
+      "camera": {
+        "specifications": {
+          "focal_length": {
+            "type": "list",
+            "values": [
+              28
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
