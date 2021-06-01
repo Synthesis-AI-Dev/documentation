@@ -15,14 +15,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -59,14 +57,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -103,14 +99,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -147,14 +141,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -191,14 +183,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -235,14 +225,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -279,14 +267,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -323,14 +309,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -367,14 +351,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -411,14 +393,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -455,14 +435,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -499,14 +477,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -547,14 +523,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -593,14 +567,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -639,14 +611,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -685,14 +655,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -731,14 +699,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -777,14 +743,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -823,14 +787,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -869,14 +831,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -915,14 +875,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -961,14 +919,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1007,14 +963,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1053,14 +1007,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1101,14 +1053,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1147,14 +1097,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1193,14 +1141,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1239,14 +1185,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1285,14 +1229,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1331,14 +1273,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1377,14 +1317,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1423,14 +1361,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1469,14 +1405,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1515,14 +1449,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1561,14 +1493,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1607,14 +1537,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1653,14 +1581,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1699,14 +1625,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1745,14 +1669,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1791,14 +1713,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1837,14 +1757,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1883,14 +1801,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1929,14 +1845,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -1975,14 +1889,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2021,14 +1933,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2067,14 +1977,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2113,14 +2021,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2159,14 +2065,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2205,14 +2109,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2251,14 +2153,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2297,14 +2197,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2343,14 +2241,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2389,14 +2285,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2435,14 +2329,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2481,14 +2373,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2527,14 +2417,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2573,14 +2461,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2619,14 +2505,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2665,14 +2549,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2711,14 +2593,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2757,14 +2637,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2803,14 +2681,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2849,14 +2725,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2895,14 +2769,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2941,14 +2813,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -2987,14 +2857,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -3033,14 +2901,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -3079,14 +2945,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -3125,14 +2989,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -3171,14 +3033,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -3217,14 +3077,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -3263,14 +3121,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -3309,14 +3165,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -3355,14 +3209,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -3401,14 +3253,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -3447,14 +3297,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -3493,14 +3341,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -3539,14 +3385,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -3585,14 +3429,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -3631,14 +3473,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -3677,14 +3517,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -3723,14 +3561,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -3769,14 +3605,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
@@ -3815,14 +3649,12 @@
         ],
         "renders_per_identity": 1
       },
-      "body": {
-        "enabled": [
-          "true"
-        ],
-        "type": [
-          "2"
-        ]
-      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
       "clothing": {
         "enabled": [
           "true"
