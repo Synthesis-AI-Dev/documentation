@@ -1,0 +1,47 @@
+{
+  "render": {
+    "resolution": {
+      "w": 1024,
+      "h": 1024
+    }
+  },
+  "faces": [
+    {
+      "identities": {
+        "ids": [
+          75,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [{
+        "outfit": ["valley_casual_3"], 
+        "gender_matched_only": true,
+        "single_style_per_id": false,
+        "percent": 100
+      }],
+      "camera": {
+        "location": {
+          "depth_meters": {
+            "type": "list",
+            "values": [
+              2.5
+            ]
+          }
+        },
+        "specifications": {
+          "focal_length": {
+            "type": "list",
+            "values": [40]
+          }
+        }
+      }
+    }
+  ]
+}
