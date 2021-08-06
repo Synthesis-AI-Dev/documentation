@@ -53,7 +53,7 @@ BMI logic:
 | "highest"   |    >=40    |
 
 
-Available gestures:
+## Available gestures:
 
 ```json
 [
