@@ -1,0 +1,493 @@
+{
+    "retail": [
+        {
+            "environment": {
+                "hdri": {
+                    "name": "phone_shop",
+                    "intensity": 1.0,
+                    "rotation": 10.0
+                }
+            },
+            "interior": {
+                "shell": {
+                    "type": "predefined",
+                    "specifications": {
+                        "id": 2
+                    }
+                },
+                "layout": {
+                    "type": "tri",
+                    "specifications": {
+                        "products": [
+                            {
+                                "name": "lays_flamin_hot_7-75oz",
+                                "stock_percentage": 2.0
+                            },
+                            {
+                                "name": "nature_certified_150ml",
+                                "stock_percentage": 73.0
+                            },
+                            {
+                                "name": "nutella_750g",
+                                "stock_percentage": 51.0
+                            },
+                            {
+                                "name": "heinz_tomato_ketchup_38oz",
+                                "stock_percentage": 17.0
+                            },
+                            {
+                                "name": "garnier_ultra_doux_200ml",
+                                "stock_percentage": 40.0
+                            },
+                            {
+                                "name": "pantene_pro-v_conditioner_28_fl_oz",
+                                "stock_percentage": 23.0
+                            },
+                            {
+                                "name": "starbucks_coffee_house_blend_1lb",
+                                "stock_percentage": 99.0
+                            },
+                            {
+                                "name": "biota_proactive_herbal_care_10-1_fl_oz",
+                                "stock_percentage": 71.0
+                            },
+                            {
+                                "name": "pringles_loaded_baked_potato_5-5oz",
+                                "stock_percentage": 1.0
+                            },
+                            {
+                                "name": "barilla_pasta_sauce_i_pesti_200g_190ml",
+                                "stock_percentage": 23.0
+                            },
+                            {
+                                "name": "lays_queso_9-5oz",
+                                "stock_percentage": 28.000000000000004
+                            },
+                            {
+                                "name": "doritos_toasted_corn_9-75oz",
+                                "stock_percentage": 96.0
+                            },
+                            {
+                                "name": "lays_queso_9-5oz",
+                                "stock_percentage": 0
+                            },
+                            {
+                                "name": "biota_proactive_herbal_care_10-1_fl_oz",
+                                "stock_percentage": 94.0
+                            },
+                            {
+                                "name": "wella_kids_fake_bottle_12-5_fl_oz",
+                                "stock_percentage": 0
+                            },
+                            {
+                                "name": "clean_n_clear_essentials_moisturizer_4_fl_oz",
+                                "stock_percentage": 14.000000000000002
+                            },
+                            {
+                                "name": "wine_ott_750ml",
+                                "stock_percentage": 0
+                            },
+                            {
+                                "name": "garnier_ultra_doux_200ml",
+                                "stock_percentage": 31.0
+                            },
+                            {
+                                "name": "mr_clean_gain_24_fl_oz",
+                                "stock_percentage": 23.0
+                            },
+                            {
+                                "name": "lays_biscuits_7-75oz",
+                                "stock_percentage": 20.0
+                            },
+                            {
+                                "name": "pantene_pro-v_conditioner_28_fl_oz",
+                                "stock_percentage": 63.0
+                            },
+                            {
+                                "name": "garnier_ultra_doux_200ml",
+                                "stock_percentage": 51.0
+                            },
+                            {
+                                "name": "lays_biscuits_7-75oz",
+                                "stock_percentage": 22.0
+                            },
+                            {
+                                "name": "nutella_750g",
+                                "stock_percentage": 83.0
+                            },
+                            {
+                                "name": "pillsbury_brownie_mix:_caramel_swirl_14-6oz",
+                                "stock_percentage": 87.0
+                            },
+                            {
+                                "name": "doritos_spicy_nacho_9-75oz",
+                                "stock_percentage": 33.0
+                            },
+                            {
+                                "name": "kix_1_lb_2oz",
+                                "stock_percentage": 2.0
+                            },
+                            {
+                                "name": "corona_extra_12oz",
+                                "stock_percentage": 55.00000000000001
+                            },
+                            {
+                                "name": "lays_barbecue_7-75oz",
+                                "stock_percentage": 56.00000000000001
+                            },
+                            {
+                                "name": "downy_60_loads_51_fl_oz",
+                                "stock_percentage": 33.0
+                            },
+                            {
+                                "name": "lays_barbecue_7-75oz",
+                                "stock_percentage": 0
+                            },
+                            {
+                                "name": "chocolate_chex_14-25oz",
+                                "stock_percentage": 60.0
+                            },
+                            {
+                                "name": "doritos_nacho_cheese_9-75oz",
+                                "stock_percentage": 37.0
+                            },
+                            {
+                                "name": "lays_cheesy_7-75oz",
+                                "stock_percentage": 70.0
+                            },
+                            {
+                                "name": "fat_tire_six_pack_72oz",
+                                "stock_percentage": 34.0
+                            },
+                            {
+                                "name": "becks_12oz",
+                                "stock_percentage": 84.0
+                            },
+                            {
+                                "name": "fat_tire_six_pack_72oz",
+                                "stock_percentage": 1.0
+                            },
+                            {
+                                "name": "biota_proactive_herbal_care_10-1_fl_oz",
+                                "stock_percentage": 18.0
+                            },
+                            {
+                                "name": "lays_cheddar_7-75oz",
+                                "stock_percentage": 82.0
+                            },
+                            {
+                                "name": "heineken_12oz",
+                                "stock_percentage": 33.0
+                            },
+                            {
+                                "name": "doritos_toasted_corn_9-75oz",
+                                "stock_percentage": 68.0
+                            },
+                            {
+                                "name": "special_k_red_berries_11-7oz",
+                                "stock_percentage": 41.0
+                            },
+                            {
+                                "name": "olive_oil_variant_papa_vince_16-91_fl_oz",
+                                "stock_percentage": 56.00000000000001
+                            },
+                            {
+                                "name": "head_n_shoulders_ocean_lift_13-5_fl_oz",
+                                "stock_percentage": 16.0
+                            },
+                            {
+                                "name": "heinz_tomato_ketchup_38oz",
+                                "stock_percentage": 0
+                            },
+                            {
+                                "name": "pantene_pro-v_india_12-5_fl_oz",
+                                "stock_percentage": 53.0
+                            },
+                            {
+                                "name": "tabasco_sauce_5oz",
+                                "stock_percentage": 95.0
+                            },
+                            {
+                                "name": "doritos_spicy_sweet_chili_2oz_56-7g",
+                                "stock_percentage": 89.0
+                            },
+                            {
+                                "name": "starbucks_coffee_africa_kitamu_1lb",
+                                "stock_percentage": 40.0
+                            },
+                            {
+                                "name": "trix_10-7oz",
+                                "stock_percentage": 33.0
+                            },
+                            {
+                                "name": "heinz_tomato_ketchup_38oz",
+                                "stock_percentage": 0
+                            },
+                            {
+                                "name": "arm_and_hammer_baking_soda_1_lb-",
+                                "stock_percentage": 74.0
+                            },
+                            {
+                                "name": "heineken_12oz",
+                                "stock_percentage": 28.000000000000004
+                            },
+                            {
+                                "name": "kraft_macaroni_n_cheese_7-25oz",
+                                "stock_percentage": 89.0
+                            },
+                            {
+                                "name": "kix_1_lb_2oz",
+                                "stock_percentage": 10.0
+                            },
+                            {
+                                "name": "fruity_pebbles_11oz",
+                                "stock_percentage": 47.0
+                            },
+                            {
+                                "name": "dos_equis_six_pack_72oz",
+                                "stock_percentage": 0
+                            },
+                            {
+                                "name": "pringles_cheddar_n_sour_cream_5-5oz",
+                                "stock_percentage": 12.0
+                            },
+                            {
+                                "name": "wine_barb_750ml",
+                                "stock_percentage": 24.0
+                            },
+                            {
+                                "name": "tabasco_sauce_5oz",
+                                "stock_percentage": 20.0
+                            },
+                            {
+                                "name": "olive_oil_olio_taibi_500ml",
+                                "stock_percentage": 26.0
+                            },
+                            {
+                                "name": "doritos_nacho_cheese_9-75oz",
+                                "stock_percentage": 0
+                            },
+                            {
+                                "name": "trix_10-7oz",
+                                "stock_percentage": 0
+                            },
+                            {
+                                "name": "modelo_especial_six_pack_72oz",
+                                "stock_percentage": 62.0
+                            },
+                            {
+                                "name": "capn_crunch_14oz",
+                                "stock_percentage": 0
+                            },
+                            {
+                                "name": "doritos_salsa_verde_9-75oz",
+                                "stock_percentage": 66.0
+                            },
+                            {
+                                "name": "mr_clean_gain_24_fl_oz",
+                                "stock_percentage": 0
+                            },
+                            {
+                                "name": "pringles_bbq_5-5oz",
+                                "stock_percentage": 14.000000000000002
+                            },
+                            {
+                                "name": "kix_1_lb_2oz",
+                                "stock_percentage": 89.0
+                            },
+                            {
+                                "name": "pringles_buffalo_ranch_5-5oz",
+                                "stock_percentage": 0
+                            },
+                            {
+                                "name": "bagrrys_corn_flakes_plus_india_250g",
+                                "stock_percentage": 41.0
+                            },
+                            {
+                                "name": "garnier_ultra_doux_200ml",
+                                "stock_percentage": 98.0
+                            },
+                            {
+                                "name": "wine_calling_out_tribute_750ml",
+                                "stock_percentage": 85.0
+                            },
+                            {
+                                "name": "kikkoman_soy_sauce_150ml",
+                                "stock_percentage": 4.0
+                            },
+                            {
+                                "name": "budweiser_12oz",
+                                "stock_percentage": 7.000000000000001
+                            },
+                            {
+                                "name": "tabasco_sauce_5oz",
+                                "stock_percentage": 36.0
+                            },
+                            {
+                                "name": "doritos_toasted_corn_9-75oz",
+                                "stock_percentage": 42.0
+                            },
+                            {
+                                "name": "barilla_pasta_sauce_ricotta_200g_190ml",
+                                "stock_percentage": 0
+                            },
+                            {
+                                "name": "capn_crunch_14oz",
+                                "stock_percentage": 50.0
+                            },
+                            {
+                                "name": "wine_chateau_bonnet_rose_750ml",
+                                "stock_percentage": 99.0
+                            },
+                            {
+                                "name": "capn_crunch_14oz",
+                                "stock_percentage": 10.0
+                            },
+                            {
+                                "name": "wine_barone_fini_pinot_750ml",
+                                "stock_percentage": 81.0
+                            },
+                            {
+                                "name": "doritos_spicy_nacho_9-75oz",
+                                "stock_percentage": 0
+                            },
+                            {
+                                "name": "wine_calling_out_tribute_750ml",
+                                "stock_percentage": 97.0
+                            },
+                            {
+                                "name": "froot_loops_8-7oz",
+                                "stock_percentage": 22.0
+                            },
+                            {
+                                "name": "froot_loops_8-7oz",
+                                "stock_percentage": 94.0
+                            },
+                            {
+                                "name": "dos_equis_six_pack_72oz",
+                                "stock_percentage": 27.0
+                            },
+                            {
+                                "name": "heineken_12oz",
+                                "stock_percentage": 84.0
+                            },
+                            {
+                                "name": "mr_clean_multi-surface_spray_32_fl_oz",
+                                "stock_percentage": 33.0
+                            },
+                            {
+                                "name": "arm_and_hammer_baking_soda_1_lb-",
+                                "stock_percentage": 67.0
+                            },
+                            {
+                                "name": "starbucks_coffee_colombia_16oz",
+                                "stock_percentage": 72.0
+                            },
+                            {
+                                "name": "wine_gewurst_750ml",
+                                "stock_percentage": 89.0
+                            },
+                            {
+                                "name": "pringles_bbq_5-5oz",
+                                "stock_percentage": 85.0
+                            },
+                            {
+                                "name": "becks_12oz",
+                                "stock_percentage": 47.0
+                            },
+                            {
+                                "name": "olive_oil_olivio_italia_6-8_fl_oz",
+                                "stock_percentage": 52.0
+                            },
+                            {
+                                "name": "doritos_spicy_nacho_9-75oz",
+                                "stock_percentage": 28.999999999999996
+                            },
+                            {
+                                "name": "lays_queso_9-5oz",
+                                "stock_percentage": 62.0
+                            },
+                            {
+                                "name": "mr_clean_multi-surface_spray_32_fl_oz",
+                                "stock_percentage": 0
+                            },
+                            {
+                                "name": "nature_certified_150ml",
+                                "stock_percentage": 82.0
+                            },
+                            {
+                                "name": "barilla_pasta_sauce_i_pesti_200g_190ml",
+                                "stock_percentage": 13.0
+                            }
+                        ],
+                        "product_order_seed": 0.12675876274880982,
+                        "item_count_seed": 0.6555108777495514,
+                        "perturbation_seed": 0.3583565233077095,
+                        "price_tag_type": "standard"
+                    }
+                }
+            },
+            "camera_rigs": [
+                {
+                    "type": "absolute",
+                    "location": {
+                        "x": -1.9123445159333177,
+                        "y": 1,
+                        "z": 1.4666740489446126,
+                        "pitch": -4.960883236415774,
+                        "yaw": 7.971249758343131,
+                        "roll": 0
+                    },
+                    "cameras": [
+                        {
+                            "name": "a",
+                            "relative_location": {
+                                "x": 0.05,
+                                "y": 0,
+                                "z": 0,
+                                "pitch": 0.0,
+                                "yaw": 0.0,
+                                "roll": 0.0
+                            },
+                            "specifications": {
+                                "focal_length": 5.207,
+                                "sensor_width": 12.4
+                            },
+                            "render": {
+                                "resolution": {
+                                    "w": 2560,
+                                    "h": 2048
+                                },
+                                "noise_threshold": 0.017,
+                                "denoise": false
+                            }
+                        },
+                        {
+                            "name": "b",
+                            "relative_location": {
+                                "x": -0.05,
+                                "y": 0,
+                                "z": 0,
+                                "pitch": 0.0,
+                                "yaw": 0.0,
+                                "roll": 0.0
+                            },
+                            "specifications": {
+                                "focal_length": 5.207,
+                                "sensor_width": 12.4
+                            },
+                            "render": {
+                                "resolution": {
+                                    "w": 2560,
+                                    "h": 2048
+                                },
+                                "noise_threshold": 0.017,
+                                "denoise": false
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
