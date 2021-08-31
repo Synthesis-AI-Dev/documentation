@@ -15,7 +15,7 @@
         "hair": [{
           "style": ["female_hair_long_wavy_1"],
           "color": ["copper_shimmer"],
-          "gender_matched_only": true,
+          "sex_matched_only": true,
           "ethnicity_matched_only": true,
           "relative_length": { "type":  "list", "values": [0.5,0.6,0.7,0.8,0.9,1.0] },
           "relative_density": { "type": "list", "values": [1.0]},

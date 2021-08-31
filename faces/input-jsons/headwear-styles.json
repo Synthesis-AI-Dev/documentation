@@ -1,4 +1,4 @@
-{
+Ï{
   "render": {
     "resolution": {
       "w": 512,
@@ -19,7 +19,7 @@
         }],
         "headwear": [{
           "style": ["all"],
-          "gender_matched_only": true,
+          "sex_matched_only": true,
           "percent": 100
         }],
         "masks": [{

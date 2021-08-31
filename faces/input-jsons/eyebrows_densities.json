@@ -29,7 +29,7 @@
           "color": ["chocolate_brown"],
           "color_seed": { "type": "list", "values": [0] },
           "match_hair_color": false,
-          "gender_matched_only": true,
+          "sex_matched_only": true,
           "percent": 100
           }
         ]

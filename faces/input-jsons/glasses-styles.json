@@ -16,7 +16,7 @@
         "glasses": [{
           "style": ["all"],
           "lens_color": ["default"],
-          "gender_matched_only": true,
+          "sex_matched_only": true,
           "percent": 100
         }],
         "headwear": [{

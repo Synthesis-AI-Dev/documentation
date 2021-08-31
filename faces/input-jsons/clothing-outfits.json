@@ -25,7 +25,7 @@
           "outfit": [
             "work_casual_0"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -79,7 +79,7 @@
           "outfit": [
             "work_casual_1"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -133,7 +133,7 @@
           "outfit": [
             "work_casual_2"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -187,7 +187,7 @@
           "outfit": [
             "work_casual_3"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -241,7 +241,7 @@
           "outfit": [
             "work_casual_4"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -295,7 +295,7 @@
           "outfit": [
             "work_professional_0"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -349,7 +349,7 @@
           "outfit": [
             "work_professional_1"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -403,7 +403,7 @@
           "outfit": [
             "work_professional_2"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -457,7 +457,7 @@
           "outfit": [
             "work_professional_3"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -511,7 +511,7 @@
           "outfit": [
             "work_professional_4"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -565,7 +565,7 @@
           "outfit": [
             "sunday_bbq_0"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -619,7 +619,7 @@
           "outfit": [
             "sunday_bbq_1"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -673,7 +673,7 @@
           "outfit": [
             "sunday_bbq_2"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -727,7 +727,7 @@
           "outfit": [
             "sunday_bbq_3"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -781,7 +781,7 @@
           "outfit": [
             "sunday_bbq_4"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -835,7 +835,7 @@
           "outfit": [
             "jeans_and_hoodie_0"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -889,7 +889,7 @@
           "outfit": [
             "jeans_and_hoodie_1"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -943,7 +943,7 @@
           "outfit": [
             "jeans_and_hoodie_2"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -997,7 +997,7 @@
           "outfit": [
             "jeans_and_hoodie_3"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -1051,7 +1051,7 @@
           "outfit": [
             "jeans_and_hoodie_4"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -1105,7 +1105,7 @@
           "outfit": [
             "longsleeve_dress_red"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -1159,7 +1159,7 @@
           "outfit": [
             "longsleeve_dress_yellow"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -1213,7 +1213,7 @@
           "outfit": [
             "longsleeve_dress_brown"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -1267,7 +1267,7 @@
           "outfit": [
             "longsleeve_dress_navy"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -1321,7 +1321,7 @@
           "outfit": [
             "longsleeve_dress_black"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -1375,7 +1375,7 @@
           "outfit": [
             "slingdress_red"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -1429,7 +1429,7 @@
           "outfit": [
             "slingdress_tan"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -1483,7 +1483,7 @@
           "outfit": [
             "slingdress_white"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -1537,7 +1537,7 @@
           "outfit": [
             "slingdress_blue"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -1591,7 +1591,7 @@
           "outfit": [
             "slingdress_black"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -1645,7 +1645,7 @@
           "outfit": [
             "flower_power_red"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -1699,7 +1699,7 @@
           "outfit": [
             "flower_power_tan"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -1753,7 +1753,7 @@
           "outfit": [
             "flower_power_white"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -1807,7 +1807,7 @@
           "outfit": [
             "flower_power_blue"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],
@@ -1861,7 +1861,7 @@
           "outfit": [
             "flower_power_black"
           ],
-          "gender_matched_only": false,
+          "sex_matched_only": false,
           "percent": 100
         }
       ],

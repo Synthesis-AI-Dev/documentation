@@ -15,7 +15,7 @@
         "hair": [{
           "style": ["male_hair_fauxhawk_1","male_hair_short_curly_1","female_hair_long_generic_1"],
           "color": ["chocolate_brown"],
-          "gender_matched_only": true,
+          "sex_matched_only": true,
           "ethnicity_matched_only": true,
           "relative_length": { "type":  "list", "values": [1.0] },
           "relative_density": { "type": "list", "values": [1.0]},
