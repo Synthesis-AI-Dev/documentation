@@ -39,7 +39,7 @@
         "hair": [{
           "style": ["all"],
           "color": ["all"],
-          "gender_matched_only": true,
+          "sex_matched_only": true,
           "ethnicity_matched_only": true,
           "relative_length": { "type": "range", "values": { "min": 0.75, "max": 1.0 }},
           "relative_density": { "type": "range", "values": { "min": 0.75, "max": 1 }},
@@ -54,12 +54,12 @@
         "glasses": [{
           "style": ["all"],
           "lens_color": ["default"],
-          "gender_matched_only": true,
+          "sex_matched_only": true,
           "percent": 25
         },{
           "style": ["all"],
           "lens_color": ["all"],
-          "gender_matched_only": true,
+          "sex_matched_only": true,
           "percent": 10
         },{
           "style": ["none"],
@@ -67,7 +67,7 @@
         }],
         "headwear": [{
           "style": ["none"],
-          "gender_matched_only": true,
+          "sex_matched_only": true,
           "percent": 100
         }],
         "masks": [{
