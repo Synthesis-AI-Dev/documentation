@@ -27,6 +27,9 @@ Headwear Styles: Valid headwear styles
 ### mask_styles.md
 Mask Styles: Valid mask styles/mask positions/mask variants
 
+### gestures.md
+Gestures: Valid gesture names
+
 # input-jsons 
 Sample input JSON files, typically for changing a small subset or single parameter, including:
 body-types.json<br />
@@ -61,6 +64,7 @@ lights-three.json<br />
 masks-styles.json<br />
 nir-intensities.json<br />
 nir-sizes.json<br />
+gestures.json<br />
 
 
 # sample-outputs
