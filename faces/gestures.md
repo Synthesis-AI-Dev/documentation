@@ -2,34 +2,34 @@
 
 ## Available gestures:
 
-```json
-[
-    "look_left",
-    "look_right",
-    "wave",
-    "elbow_bump",
-    "whisper",
-    "hold_head",
-    "apply_lipstick",
-    "drink_from_cup",
-    "pour",
-    "drink_from_glass",
-    "screen_wipe",
-    "writing_horizontal",
-    "typing",
-    "hand_talking_1",
-    "pointing_vertical_surface",
-    "air_swipe",
-    "hands_behind_head",
-    "opens_arms_hand_talking",
-    "hand_arms_dance",
-    "wave_hello",
-    "hand_talking_2",
-    "answer_phone_talk",
-    "two_hand_phone_usage",
-    "high_five",
-    "hand_talking_3",
-    "hand_talking_4",
-    "stretch"
-]
-```
+Gesture with their frame Count at 30 frames per second:
+
+| Gesture                     | Frame count|
+| -----------                 | -----------  |
+| "look_left"                 | 33 |
+| "look_right"                | 15 |
+| "wave"                      | 54 |
+| "elbow_bump"                | 55 |
+| "whisper"                   | 308 |
+| "hold_head"                 | 76 |
+| "apply_lipstick"            | 237 |
+| "drink_from_cup"            | 134 |
+| "pour"                      | 137 |
+| "drink_from_glass"          | 141 |
+| "screen_wipe"               | 20 |
+| "writing_horizontal"        | 108 |
+| "typing"                    | 92 |
+| "hand_talking_1"            | 289 |
+| "pointing_vertical_surface" | 118 |
+| "air_swipe"                 | 19 |
+| "hands_behind_head"         | 76 |
+| "opens_arms_hand_talking"   | 90 |
+| "hand_arms_dance"           | 985 |
+| "wave_hello"                | 48 |
+| "hand_talking_2"            | 457 |
+| "answer_phone_talk"         | 371 |
+| "two_hand_phone_usage"      | 292 |
+| "high_five"                 | 40 |
+| "hand_talking_3"            | 292 |
+| "hand_talking_4"            | 213 |
+| "stretch"                   | 216 |
