@@ -1,0 +1,306 @@
+{
+  "render": {"resolution": {"w": 1024, "h": 768}}, "faces": [
+  {
+    "identities": {
+      "ids": [24],
+      "renders_per_identity": 1
+    },
+    "accessories": {
+      "glasses": [
+        {
+          "style": ["all"],
+          "lens_color": ["default", "blue", "pink", "gray", "brown", "silver", "rose_gold", "ice_blue", "purple", "gold", "rose_red"],
+          "metalness": {"type": "list", "values": [0.0, 0.0, 0.0, 0.1]},
+          "transparency": {"type": "list", "values": [1.0]},
+          "sex_matched_only": true,
+          "percent": 5
+        },
+        {
+          "style": ["all"],
+          "lens_color": ["white","blue","red","pink","yellow","orange","orange_red","gray","brown","silver","rose_gold","ice_blue","purple","gold","rose_red"],
+          "metalness": { "type": "list", "values": [0.4, 0.4, 0.4, 0.8]},
+          "transparency": { "type": "list", "values": [0.95]},
+          "sex_matched_only": true,
+          "percent":  5
+        },
+        {"style": ["none"], "percent": 90}
+      ],
+      "headwear": [
+        {"style": ["female_headscarf_1","female_hijab_1","male_beanie_1","male_cap_1","unisex_bucket_hat_aa"], "sex_matched_only": true, "percent": 10},
+        {"style": ["none"], "percent": 90}
+      ],
+      "masks": [
+        {"style": ["all"], "position": ["1", "2", "3"], "variant": ["all"], "percent": 10},
+        {"style": ["none"], "percent": 90}
+      ],
+      "headphones": [{"style": ["none"], "percent": 100}]
+    },
+    "facial_attributes": {
+      "expression": [
+        {
+          "name": [ "eyes_closed", "compressed", "disgusted"],
+          "intensity": {"type": "list", "values": [1.0]}, "percent": 15
+        },
+        {
+          "name": ["mouth_large_opened"],
+          "intensity": {"type": "list", "values": [1.0]}, "percent": 25
+        },
+        {
+          "name": ["eyes_closed", "compressed", "disgusted"],
+          "intensity": {"type": "range", "values": {"min": 0.15, "max": 0.9}}, "percent": 10
+        },
+		{
+          "name": ["eyes_closed"],
+          "intensity": {"type": "list", "values": [1.0]}, "percent": 15
+        },
+		{
+          "name": [ "mouth_large_opened", "compressed", "disgusted"],
+          "intensity": {"type": "list", "values": [1.0]}, "percent": 15
+        },
+		{
+          "name": [ "mouth_large_opened", "compressed", "disgusted"],
+          "intensity": {"type": "range", "values": {"min": 0.15, "max": 0.9}}, "percent": 20
+        }
+      ],
+      "gaze": [
+        {
+          "horizontal_angle": {"type": "range", "values": {"min": -30.0, "max": 30.0}},
+          "vertical_angle": {"type": "range", "values": {"min": -30.0, "max": 30.0}},
+          "percent": 100
+        }
+      ],
+      "head_turn": [{
+		  "pitch": {"type": "range", "values": {"min": -15, "max": 0}},
+          "yaw": {"type": "range", "values": {"min": -20, "max": 20}},
+          "roll": {"type": "range", "values": {"min": -20, "max": 20}},
+          "percent": 50
+        },{
+          "pitch": {"type": "range", "values": {"min": 0, "max": 45}},
+          "yaw": {"type": "range", "values": {"min": -45, "max": 45}},
+          "roll": {"type": "range", "values": {"min": -20, "max": 20}},
+          "percent": 50
+      }],
+      "hair": [{
+          "style": ["all"],
+          "color": ["all"],
+          "sex_matched_only": true,
+          "ethnicity_matched_only": false,
+          "relative_length": {"type": "range", "values": {"min": 0.8, "max": 1.0}},
+          "relative_density": {"type": "range", "values": {"min": 0.8, "max": 1.0}},
+          "percent": 100
+        }
+      ],
+      "facial_hair": [
+        {
+          "style": ["all"],
+          "color": ["all"],
+          "match_hair_color": true,
+          "relative_length": {"type": "range", "values": {"min": 0.05, "max": 1.0}},
+          "relative_density": {"type": "list", "values": [1.0]},
+          "percent": 10
+        }, {
+          "style": ["all"],
+          "match_hair_color": false,
+          "relative_length": {"type": "range", "values": {"min": 0.05, "max": 1.0}},
+          "relative_density": {"type": "list", "values": [1.0]},
+          "percent": 10
+        }, {"style": ["none"], "percent": 80}
+      ],
+      "eyebrows": [
+        {"style": ["all"], "sex_matched_only": true, "match_hair_color": true, "percent": 100}
+      ]
+    },
+    "camera": {
+      "location": {
+        "horizontal_angle": { "type": "range", "values": {"min": -17.3, "max": -17.3 }},
+        "vertical_angle": { "type": "range", "values": {"min": -13.5, "max": -13.5 }},
+        "offset_horizontal": { "type": "range", "values": {"min": -0.067, "max": -0.067 }},
+        "offset_vertical": { "type": "range", "values": {"min": -0.191, "max": -0.191 }},
+        "depth_meters": { "type": "range", "values": {"min": 0.85, "max": 0.85 }}
+      },
+      "specifications": {
+        "focal_length": { "type": "list", "values": [3.7]},
+        "sensor_width": { "type": "list", "values": [5.4855]}
+      },
+      "wavelength_vs": {"percent": 0},
+      "wavelength_nir": {"colocated_emitter": {"size_meters": 0.5, "intensity": 5}, "percent": 100}
+    },
+    "body": [{
+        "enabled": true,
+        "percent": 100
+    }],
+    "clothing": [{
+        "outfit": ["work_casual_0", "work_casual_1", "work_casual_2", "work_casual_3", "work_casual_4", "work_professional_0", "work_professional_1", "work_professional_2", "work_professional_3", "work_professional_4", "sunday_bbq_0", "sunday_bbq_1", "sunday_bbq_2", "sunday_bbq_3", "sunday_bbq_4", "jeans_and_hoodie_0", "jeans_and_hoodie_1", "jeans_and_hoodie_2", "jeans_and_hoodie_3", "jeans_and_hoodie_4", "longsleeve_dress_red", "longsleeve_dress_yellow", "longsleeve_dress_brown", "longsleeve_dress_navy", "longsleeve_dress_black", "flower_power_red", "flower_power_tan", "flower_power_white", "flower_power_blue", "flower_power_black"],
+        "sex_matched_only": true,
+        "percent": 100
+    }],
+    "environment": {
+      "hdri": {
+        "name": ["studio_small_01"],
+        "intensity": {"type": "list", "values": [0.1]},
+        "rotation": {"type": "range", "values": {"min": 0, "max": 0}}
+      },
+      "lights": [
+        {
+          "light1": {
+            "color_r": {"type": "list", "values": [255]},
+            "color_g": {"type": "list", "values": [255]},
+            "color_b": {"type": "list", "values": [255]},
+            "rotation_x": {"type": "list", "values": [60]},
+            "rotation_y": {"type": "list", "values": [0]},
+            "rotation_z": {"type": "list", "values": [0.0]},
+            "intensity": {"type": "list", "values": [1]},
+            "size_meters": {"type": "list", "values": [0.05]},
+            "distance_meters": {"type": "list", "values": [0.0]}
+          },
+          "percent": 100
+        }, {"percent": 0}
+      ],
+      "location": {"enabled": ["false"]},
+      "geometry": "vehicle"
+    }
+  },
+  {
+    "identities": {
+      "ids": [24],
+      "renders_per_identity": 1
+    },
+    "accessories": {
+      "glasses": [
+        {
+          "style": ["all"],
+          "lens_color": [
+            "default", "blue", "pink", "gray", "brown", "silver", "rose_gold", "ice_blue", "purple", "gold", "rose_red"
+          ],
+          "metalness": {"type": "list", "values": [0.0, 0.0, 0.0, 0.1]},
+          "transparency": {"type": "list", "values": [1.0]},
+          "sex_matched_only": true,
+          "percent": 5
+        },
+        {
+          "style": ["all"],
+          "lens_color": ["white","blue","red","pink","yellow","orange","orange_red","gray","brown","silver","rose_gold","ice_blue","purple","gold","rose_red"],
+          "metalness": { "type": "list", "values": [0.4, 0.4, 0.4, 0.8]},
+          "transparency": { "type": "list", "values": [0.95]},
+          "sex_matched_only": true,
+          "percent":  5
+        },
+        {"style": ["none"], "percent": 90}
+      ],
+      "headwear": [
+        {"style": ["female_headscarf_1","female_hijab_1","male_beanie_1","male_cap_1","unisex_bucket_hat_aa"], "sex_matched_only": true, "percent": 10},
+        {"style": ["none"], "percent": 90}
+      ],
+      "masks": [
+        {"style": ["all"], "position": ["1", "2", "3"], "variant": ["all"], "percent": 10},
+        {"style": ["none"], "percent": 90}
+      ],
+      "headphones": [{"style": ["none"], "percent": 100}]
+    },
+    "facial_attributes": {
+      "expression": [
+        {
+          "name": ["eyes_closed"],
+          "intensity": {"type": "list", "values": [0.0]}, "percent": 50
+        },
+		{
+          "name": ["mouth_large_opened"],
+          "intensity": {"type": "list", "values": [0.0]}, "percent": 50
+        }
+      ],
+      "gaze": [
+        {
+          "horizontal_angle": {"type": "range", "values": {"min": -30.0, "max": 30.0}},
+          "vertical_angle": {"type": "range", "values": {"min": -30.0, "max": 30.0}},
+          "percent": 100
+        }
+      ],
+      "head_turn": [{
+				"pitch": {"type": "range","values": {"min": -45,"max": 45}},
+				"yaw": {"type": "range","values": {"min": -45,"max": 45}},
+				"roll": {"type": "range","values": {"min": -20,"max": 20}},
+				"percent": 100
+			}],
+      "hair": [
+        {
+          "style": ["all"],
+          "color": ["all"],
+          "sex_matched_only": true,
+          "ethnicity_matched_only": false,
+          "relative_length": {"type": "range", "values": {"min": 0.8, "max": 1.0}},
+          "relative_density": {"type": "range", "values": {"min": 0.8, "max": 1.0}},
+          "percent": 100
+        }
+      ],
+      "facial_hair": [
+        {
+          "style": ["all"],
+          "color": ["all"],
+          "match_hair_color": true,
+          "relative_length": {"type": "range", "values": {"min": 0.05, "max": 1.0}},
+          "relative_density": {"type": "list", "values": [1.0]},
+          "percent": 10
+        }, {
+          "style": ["all"],
+          "match_hair_color": false,
+          "relative_length": {"type": "range", "values": {"min": 0.05, "max": 1.0}},
+          "relative_density": {"type": "list", "values": [1.0]},
+          "percent": 10
+        }, {"style": ["none"], "percent": 80}
+      ],
+      "eyebrows": [
+        {"style": ["all"], "sex_matched_only": true, "match_hair_color": true, "percent": 100}
+      ]
+    },
+    "camera": {
+      "location": {
+        "horizontal_angle": { "type": "range", "values": {"min": -17.3, "max": -17.3 }},
+        "vertical_angle": { "type": "range", "values": {"min": -13.5, "max": -13.5 }},
+        "offset_horizontal": { "type": "range", "values": {"min": -0.067, "max": -0.067 }},
+        "offset_vertical": { "type": "range", "values": {"min": -0.191, "max": -0.191 }},
+        "depth_meters": { "type": "range", "values": {"min": 0.85, "max": 0.85 }}
+      },
+      "specifications": {
+        "focal_length": { "type": "list", "values": [3.7]},
+        "sensor_width": { "type": "list", "values": [5.4855]}
+      },
+      "wavelength_vs": {"percent": 0},
+      "wavelength_nir": {"colocated_emitter": {"size_meters": 0.5, "intensity": 5}, "percent": 100}
+    },
+    "body": [{
+        "enabled": true,
+        "percent": 100
+    }],
+    "clothing": [{
+        "outfit": ["work_casual_0", "work_casual_1", "work_casual_2", "work_casual_3", "work_casual_4", "work_professional_0", "work_professional_1", "work_professional_2", "work_professional_3", "work_professional_4", "sunday_bbq_0", "sunday_bbq_1", "sunday_bbq_2", "sunday_bbq_3", "sunday_bbq_4", "jeans_and_hoodie_0", "jeans_and_hoodie_1", "jeans_and_hoodie_2", "jeans_and_hoodie_3", "jeans_and_hoodie_4", "longsleeve_dress_red", "longsleeve_dress_yellow", "longsleeve_dress_brown", "longsleeve_dress_navy", "longsleeve_dress_black", "flower_power_red", "flower_power_tan", "flower_power_white", "flower_power_blue", "flower_power_black"],
+        "sex_matched_only": true,
+        "percent": 100
+    }],
+    "environment": {
+      "hdri": {
+        "name": ["studio_small_01"],
+        "intensity": {"type": "list", "values": [0.1]},
+        "rotation": {"type": "range", "values": {"min": 0, "max": 0}}
+      },
+      "lights": [
+        {
+          "light1": {
+            "color_r": {"type": "list", "values": [255]},
+            "color_g": {"type": "list", "values": [255]},
+            "color_b": {"type": "list", "values": [255]},
+            "rotation_x": {"type": "list", "values": [60]},
+            "rotation_y": {"type": "list", "values": [0]},
+            "rotation_z": {"type": "list", "values": [0.0]},
+            "intensity": {"type": "list", "values": [1]},
+            "size_meters": {"type": "list", "values": [0.05]},
+            "distance_meters": {"type": "list", "values": [0.0]}
+          },
+          "percent": 100
+        }, {"percent": 0}
+      ],
+      "location": {"enabled": ["false"]},
+      "geometry": "vehicle"
+    }
+  }
+]
+}
