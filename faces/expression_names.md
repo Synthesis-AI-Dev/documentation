@@ -42,7 +42,7 @@ Valid expression names:
 	"cheeks_inhaled_right",
 	"cheeks_puffed_left",
 	"cheeks_puffed_right",
-  "none",
+	"none",
 	"nostrils_raised_global_left",
 	"nostrils_raised_global_right",
 	"nostrils_compressed_left",
