@@ -1,0 +1,57 @@
+{
+  "humans": [
+    {
+      "identities": {
+        "ids": [
+          80
+        ],
+        "renders_per_identity": 50
+      },
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "range",
+                  "values": {
+                    "min": 50,
+                    "max": 150
+                  }
+                },
+                "wavelength": "visible",
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {
+              "wavelength": "visible"
+            }
+          ],
+          "location": {
+            "yaw": {
+              "type": "list",
+              "values": [
+                0
+              ]
+            },
+            "pitch": {
+              "type": "list",
+              "values": [
+                0
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                1.0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

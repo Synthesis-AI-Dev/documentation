@@ -1,0 +1,2069 @@
+{
+  "humans": [
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "work_casual_0"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "work_casual_1"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "work_casual_2"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "work_casual_3"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "work_casual_4"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "work_professional_0"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "work_professional_1"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "work_professional_2"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "work_professional_3"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "work_professional_4"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "sunday_bbq_0"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "sunday_bbq_1"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "sunday_bbq_2"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "sunday_bbq_3"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "sunday_bbq_4"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "jeans_and_hoodie_0"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "jeans_and_hoodie_1"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "jeans_and_hoodie_2"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "jeans_and_hoodie_3"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "jeans_and_hoodie_4"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "longsleeve_dress_red"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "longsleeve_dress_yellow"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "longsleeve_dress_brown"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "longsleeve_dress_navy"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "longsleeve_dress_black"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "slingdress_red"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "slingdress_tan"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "slingdress_white"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "slingdress_blue"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "slingdress_black"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "flower_power_red"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "flower_power_tan"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "flower_power_white"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "flower_power_blue"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "percent": 100
+        }
+      ],
+      "clothing": [
+        {
+          "outfit": [
+            "flower_power_black"
+          ],
+          "sex_matched_only": false,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "pitch": {
+              "type": "list",
+              "values": [
+                -3
+              ]
+            },
+            "z": {
+              "type": "list",
+              "values": [
+                2.75
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

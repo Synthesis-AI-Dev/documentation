@@ -1,0 +1,141 @@
+{
+  "humans": [
+    {
+      "identities": {
+        "ids": [
+          80
+        ],
+        "renders_per_identity": 100
+      },
+      "environment": {
+        "hdri": {
+          "name": [
+            "blue_grotto"
+          ],
+          "intensity": {
+            "type": "list",
+            "values": [
+              1
+            ]
+          },
+          "rotation": {
+            "type": "list",
+            "values": [
+              0
+            ]
+          }
+        },
+        "lights": [
+          {
+            "light1": {
+              "color_r": {
+                "type": "list",
+                "values": [
+                  255.0
+                ]
+              },
+              "color_g": {
+                "type": "list",
+                "values": [
+                  255.0
+                ]
+              },
+              "color_b": {
+                "type": "list",
+                "values": [
+                  255.0
+                ]
+              },
+              "rotation_x": {
+                "type": "list",
+                "values": [
+                  0.0
+                ]
+              },
+              "rotation_y": {
+                "type": "list",
+                "values": [
+                  0.0
+                ]
+              },
+              "distance_meters": {
+                "type": "list",
+                "values": [
+                  1.0
+                ]
+              },
+              "intensity": {
+                "type": "list",
+                "values": [
+                  1.0
+                ]
+              },
+              "size_meters": {
+                "type": "list",
+                "values": [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21,
+                  22,
+                  23,
+                  24,
+                  25,
+                  26,
+                  27,
+                  28,
+                  29,
+                  30
+                ]
+              }
+            },
+            "percent": 100
+          }
+        ]
+      },
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {
+              "wavelength": "visible"
+            }
+          ],
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

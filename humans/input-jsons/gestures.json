@@ -1,0 +1,34 @@
+{
+  "humans": [
+    {
+      "identities": {
+        "ids": [
+          33
+        ],
+        "renders_per_identity": 1
+      },
+      "gesture": [
+        {
+          "name": [
+            "wave"
+          ],
+          "mirrored": true,
+          "position_seed": 2,
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

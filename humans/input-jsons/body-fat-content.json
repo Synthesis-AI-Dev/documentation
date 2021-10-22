@@ -1,0 +1,244 @@
+{
+  "humans": [
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "match_id_body_type": false,
+          "fat_content": [
+            "lowest"
+          ],
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "match_id_body_type": false,
+          "fat_content": [
+            "lower"
+          ],
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "match_id_body_type": false,
+          "fat_content": [
+            "median"
+          ],
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "match_id_body_type": false,
+          "fat_content": [
+            "higher"
+          ],
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          33,
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "body": [
+        {
+          "enabled": true,
+          "match_id_body_type": false,
+          "fat_content": [
+            "highest"
+          ],
+          "percent": 100
+        }
+      ],
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "list",
+                  "values": [
+                    28
+                  ]
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {}
+          ],
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
