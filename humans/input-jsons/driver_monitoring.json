@@ -333,7 +333,7 @@
             "relative_length": {
               "type": "range",
               "values": {
-                "min": 0.05,
+                "min": 0.5,
                 "max": 1.0
               }
             },
@@ -446,70 +446,6 @@
             }
           }
         },
-        "lights": [
-          {
-            "light1": {
-              "color_r": {
-                "type": "list",
-                "values": [
-                  255
-                ]
-              },
-              "color_g": {
-                "type": "list",
-                "values": [
-                  255
-                ]
-              },
-              "color_b": {
-                "type": "list",
-                "values": [
-                  255
-                ]
-              },
-              "rotation_x": {
-                "type": "list",
-                "values": [
-                  60
-                ]
-              },
-              "rotation_y": {
-                "type": "list",
-                "values": [
-                  0
-                ]
-              },
-              "rotation_z": {
-                "type": "list",
-                "values": [
-                  0.0
-                ]
-              },
-              "intensity": {
-                "type": "list",
-                "values": [
-                  1
-                ]
-              },
-              "size_meters": {
-                "type": "list",
-                "values": [
-                  0.05
-                ]
-              },
-              "distance_meters": {
-                "type": "list",
-                "values": [
-                  0.0
-                ]
-              }
-            },
-            "percent": 100
-          },
-          {
-            "percent": 0
-          }
-        ],
         "location": {
           "enabled": [
             "false"
@@ -947,70 +883,6 @@
             }
           }
         },
-        "lights": [
-          {
-            "light1": {
-              "color_r": {
-                "type": "list",
-                "values": [
-                  255
-                ]
-              },
-              "color_g": {
-                "type": "list",
-                "values": [
-                  255
-                ]
-              },
-              "color_b": {
-                "type": "list",
-                "values": [
-                  255
-                ]
-              },
-              "rotation_x": {
-                "type": "list",
-                "values": [
-                  60
-                ]
-              },
-              "rotation_y": {
-                "type": "list",
-                "values": [
-                  0
-                ]
-              },
-              "rotation_z": {
-                "type": "list",
-                "values": [
-                  0.0
-                ]
-              },
-              "intensity": {
-                "type": "list",
-                "values": [
-                  1
-                ]
-              },
-              "size_meters": {
-                "type": "list",
-                "values": [
-                  0.05
-                ]
-              },
-              "distance_meters": {
-                "type": "list",
-                "values": [
-                  0.0
-                ]
-              }
-            },
-            "percent": 100
-          },
-          {
-            "percent": 0
-          }
-        ],
         "location": {
           "enabled": [
             "false"

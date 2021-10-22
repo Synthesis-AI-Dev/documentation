@@ -41,7 +41,7 @@
               ]
             },
             "match_hair_color": false,
-            "gender_matched_only": true,
+            "sex_matched_only": true,
             "percent": 100
           }
         ]
