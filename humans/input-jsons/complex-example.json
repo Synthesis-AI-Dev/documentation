@@ -1,0 +1,283 @@
+{
+  "humans": [
+    {
+      "identities": {
+        "ids": [
+          75,
+          80
+        ],
+        "renders_per_identity": 50
+      },
+      "facial_attributes": {
+        "expression": [
+          {
+            "name": [
+              "all"
+            ],
+            "intensity": {
+              "type": "range",
+              "values": {
+                "min": 0.0,
+                "max": 1.0
+              }
+            },
+            "percent": 50
+          },
+          {
+            "name": [
+              "none"
+            ],
+            "percent": 50
+          }
+        ],
+        "gaze": [
+          {
+            "horizontal_angle": {
+              "type": "range",
+              "values": {
+                "min": -30.0,
+                "max": 30.0
+              }
+            },
+            "vertical_angle": {
+              "type": "range",
+              "values": {
+                "min": -30.0,
+                "max": 30.0
+              }
+            },
+            "percent": 100
+          }
+        ],
+        "head_turn": [
+          {
+            "pitch": {
+              "type": "range",
+              "values": {
+                "min": -45.0,
+                "max": 45.0
+              }
+            },
+            "yaw": {
+              "type": "range",
+              "values": {
+                "min": -45.0,
+                "max": 45.0
+              }
+            },
+            "roll": {
+              "type": "range",
+              "values": {
+                "min": -45.0,
+                "max": 45.0
+              }
+            },
+            "percent": 25
+          },
+          {
+            "pitch": {
+              "type": "list",
+              "values": [
+                0.0
+              ]
+            },
+            "yaw": {
+              "type": "list",
+              "values": [
+                0.0
+              ]
+            },
+            "roll": {
+              "type": "list",
+              "values": [
+                0.0
+              ]
+            },
+            "percent": 75
+          }
+        ],
+        "hair": [
+          {
+            "style": [
+              "all"
+            ],
+            "color": [
+              "all"
+            ],
+            "sex_matched_only": true,
+            "ethnicity_matched_only": true,
+            "relative_length": {
+              "type": "range",
+              "values": {
+                "min": 0.75,
+                "max": 1.0
+              }
+            },
+            "relative_density": {
+              "type": "range",
+              "values": {
+                "min": 0.75,
+                "max": 1
+              }
+            },
+            "percent": 100
+          }
+        ],
+        "facial_hair": [
+          {
+            "style": [
+              "none"
+            ],
+            "percent": 100
+          }
+        ]
+      },
+      "accessories": {
+        "glasses": [
+          {
+            "style": [
+              "all"
+            ],
+            "lens_color": [
+              "default"
+            ],
+            "sex_matched_only": true,
+            "percent": 25
+          },
+          {
+            "style": [
+              "all"
+            ],
+            "lens_color": [
+              "all"
+            ],
+            "sex_matched_only": true,
+            "percent": 10
+          },
+          {
+            "style": [
+              "none"
+            ],
+            "percent": 65
+          }
+        ],
+        "headwear": [
+          {
+            "style": [
+              "none"
+            ],
+            "sex_matched_only": true,
+            "percent": 100
+          }
+        ],
+        "masks": [
+          {
+            "style": [
+              "all"
+            ],
+            "percent": 25
+          },
+          {
+            "style": [
+              "none"
+            ],
+            "percent": 75
+          }
+        ],
+        "headphones": [
+          {
+            "style": [
+              "all"
+            ],
+            "percent": 10
+          },
+          {
+            "style": [
+              "none"
+            ],
+            "percent": 90
+          }
+        ]
+      },
+      "environment": {
+        "hdri": {
+          "name": [
+            "all"
+          ],
+          "intensity": {
+            "type": "range",
+            "values": {
+              "min": 0.5,
+              "max": 2.0
+            }
+          },
+          "rotation": {
+            "type": "range",
+            "values": {
+              "min": -180,
+              "max": 180
+            }
+          }
+        }
+      },
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "focal_length": {
+                  "type": "range",
+                  "values": {
+                    "min": 1,
+                    "max": 18
+                  }
+                },
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {
+              "size_meters": {
+                "type": "list",
+                "values": [
+                  1.0
+                ]
+              },
+              "intensity": {
+                "type": "list",
+                "values": [
+                  4.0
+                ]
+              }
+            }
+          ],
+          "location": {
+            "yaw": {
+              "type": "range",
+              "values": {
+                "min": -100.0,
+                "max": 100.0
+              }
+            },
+            "pitch": {
+              "type": "range",
+              "values": {
+                "min": -100.0,
+                "max": 100.0
+              }
+            },
+            "z": {
+              "type": "range",
+              "values": {
+                "min": 0.2,
+                "max": 1.5
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

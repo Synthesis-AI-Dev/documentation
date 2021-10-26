@@ -1,0 +1,454 @@
+{
+  "humans": [
+    {
+      "identities": {
+        "ids": [
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {
+              "wavelength": "nir",
+              "size_meters": {
+                "type": "list",
+                "values": [
+                  1.0
+                ]
+              },
+              "intensity": {
+                "type": "list",
+                "values": [
+                  0.1
+                ]
+              }
+            }
+          ],
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {
+              "wavelength": "nir",
+              "size_meters": {
+                "type": "list",
+                "values": [
+                  1.0
+                ]
+              },
+              "intensity": {
+                "type": "list",
+                "values": [
+                  0.2
+                ]
+              }
+            }
+          ],
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {
+              "wavelength": "nir",
+              "size_meters": {
+                "type": "list",
+                "values": [
+                  1.0
+                ]
+              },
+              "intensity": {
+                "type": "list",
+                "values": [
+                  0.3
+                ]
+              }
+            }
+          ],
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {
+              "wavelength": "nir",
+              "size_meters": {
+                "type": "list",
+                "values": [
+                  1.0
+                ]
+              },
+              "intensity": {
+                "type": "list",
+                "values": [
+                  0.4
+                ]
+              }
+            }
+          ],
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {
+              "wavelength": "nir",
+              "size_meters": {
+                "type": "list",
+                "values": [
+                  1.0
+                ]
+              },
+              "intensity": {
+                "type": "list",
+                "values": [
+                  0.5
+                ]
+              }
+            }
+          ],
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {
+              "wavelength": "nir",
+              "size_meters": {
+                "type": "list",
+                "values": [
+                  1.0
+                ]
+              },
+              "intensity": {
+                "type": "list",
+                "values": [
+                  0.6
+                ]
+              }
+            }
+          ],
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {
+              "wavelength": "nir",
+              "size_meters": {
+                "type": "list",
+                "values": [
+                  1.0
+                ]
+              },
+              "intensity": {
+                "type": "list",
+                "values": [
+                  0.7
+                ]
+              }
+            }
+          ],
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {
+              "wavelength": "nir",
+              "size_meters": {
+                "type": "list",
+                "values": [
+                  1.0
+                ]
+              },
+              "intensity": {
+                "type": "list",
+                "values": [
+                  0.8
+                ]
+              }
+            }
+          ],
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {
+              "wavelength": "nir",
+              "size_meters": {
+                "type": "list",
+                "values": [
+                  1.0
+                ]
+              },
+              "intensity": {
+                "type": "list",
+                "values": [
+                  0.9
+                ]
+              }
+            }
+          ],
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "identities": {
+        "ids": [
+          80
+        ],
+        "renders_per_identity": 1
+      },
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {
+              "wavelength": "nir",
+              "size_meters": {
+                "type": "list",
+                "values": [
+                  1.0
+                ]
+              },
+              "intensity": {
+                "type": "list",
+                "values": [
+                  1.0
+                ]
+              }
+            }
+          ],
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

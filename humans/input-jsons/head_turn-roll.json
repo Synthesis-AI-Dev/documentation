@@ -1,0 +1,89 @@
+{
+  "humans": [
+    {
+      "identities": {
+        "ids": [
+          80
+        ],
+        "renders_per_identity": 500
+      },
+      "facial_attributes": {
+        "head_turn": [
+          {
+            "pitch": {
+              "type": "list",
+              "values": [
+                0
+              ]
+            },
+            "yaw": {
+              "type": "list",
+              "values": [
+                0
+              ]
+            },
+            "roll": {
+              "type": "range",
+              "values": {
+                "min": -45.0,
+                "max": 45.0
+              }
+            },
+            "percent": 100
+          }
+        ]
+      },
+      "accessories": {
+        "glasses": [
+          {
+            "style": [
+              "none"
+            ],
+            "percent": 100
+          }
+        ],
+        "headwear": [
+          {
+            "style": [
+              "none"
+            ],
+            "percent": 100
+          }
+        ],
+        "masks": [
+          {
+            "style": [
+              "none"
+            ],
+            "percent": 100
+          }
+        ]
+      },
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {
+              "wavelength": "visible"
+            }
+          ],
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

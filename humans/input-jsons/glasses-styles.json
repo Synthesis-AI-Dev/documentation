@@ -1,0 +1,69 @@
+{
+  "humans": [
+    {
+      "identities": {
+        "ids": [
+          80,
+          75
+        ],
+        "renders_per_identity": 60
+      },
+      "facial_attributes": {},
+      "accessories": {
+        "glasses": [
+          {
+            "style": [
+              "all"
+            ],
+            "lens_color": [
+              "default"
+            ],
+            "sex_matched_only": true,
+            "percent": 100
+          }
+        ],
+        "headwear": [
+          {
+            "style": [
+              "none"
+            ],
+            "percent": 100
+          }
+        ],
+        "masks": [
+          {
+            "style": [
+              "none"
+            ],
+            "percent": 100
+          }
+        ]
+      },
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {
+              "wavelength": "visible"
+            }
+          ],
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

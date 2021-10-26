@@ -1,0 +1,77 @@
+{
+  "humans": [
+    {
+      "identities": {
+        "ids": [
+          80
+        ],
+        "renders_per_identity": 100
+      },
+      "environment": {
+        "hdri": {
+          "name": [
+            "blue_grotto"
+          ],
+          "intensity": {
+            "type": "list",
+            "values": [
+              0.1,
+              0.2,
+              0.5,
+              0.8,
+              1.0,
+              1.2,
+              1.4,
+              1.6,
+              1.8,
+              2
+            ]
+          },
+          "rotation": {
+            "type": "list",
+            "values": [
+              -180,
+              -150,
+              -120,
+              -90,
+              -60,
+              -30,
+              0,
+              30,
+              60,
+              90,
+              120,
+              150,
+              180
+            ]
+          }
+        }
+      },
+      "camera_and_light_rigs": [
+        {
+          "cameras": [
+            {
+              "specifications": {
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {
+              "wavelength": "visible"
+            }
+          ],
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

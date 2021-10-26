@@ -1,0 +1,63 @@
+{
+  "humans": [
+    {
+      "identities": {
+        "ids": [
+          23,
+          80
+        ],
+        "renders_per_identity": 5
+      },
+      "facial_attributes": {
+        "eyebrows": [
+          {
+            "match_id_eyebrows": false,
+            "style": [
+              "male_manicured_broad_1",
+              "female_manicured_broad_1"
+            ],
+            "relative_length": {
+              "type": "list",
+              "values": [
+                1.0
+              ]
+            },
+            "relative_density": {
+              "type": "list",
+              "values": [
+                0.7,
+                0.8,
+                0.9,
+                1.0
+              ]
+            },
+            "color": [
+              "chocolate_brown"
+            ],
+            "color_seed": {
+              "type": "list",
+              "values": [
+                0
+              ]
+            },
+            "match_hair_color": false,
+            "sex_matched_only": true,
+            "percent": 100
+          }
+        ]
+      },
+      "camera_and_light_rigs": [
+        {
+          "location": {
+            "z": {
+              "type": "list",
+              "values": [
+                1
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
