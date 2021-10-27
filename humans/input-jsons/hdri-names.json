@@ -5,7 +5,7 @@
         "ids": [
           80
         ],
-        "renders_per_identity": 300
+        "renders_per_identity": 50
       },
       "environment": {
         "hdri": {

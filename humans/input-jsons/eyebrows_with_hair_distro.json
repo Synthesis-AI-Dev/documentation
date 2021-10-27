@@ -400,19 +400,7 @@
             ]
           }
         }
-      },
-      "camera_and_light_rigs": [
-        {
-          "location": {
-            "z": {
-              "type": "list",
-              "values": [
-                1
-              ]
-            }
-          }
-        }
-      ]
+      }
     }
   ]
 }

@@ -5,7 +5,7 @@
         "ids": [
           80
         ],
-        "renders_per_identity": 100
+        "renders_per_identity": 50
       },
       "facial_attributes": {},
       "accessories": {
