@@ -6,7 +6,7 @@
           80,
           75
         ],
-        "renders_per_identity": 100
+        "renders_per_identity": 25
       },
       "facial_attributes": {
         "hair": [

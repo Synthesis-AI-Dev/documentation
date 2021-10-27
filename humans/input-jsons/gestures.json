@@ -12,18 +12,30 @@
           "name": [
             "wave"
           ],
-          "mirrored": true,
           "position_seed": 2,
           "percent": 100
         }
       ],
       "camera_and_light_rigs": [
         {
+          "cameras": [
+            {
+              "specifications": {
+                "resolution_w": 512,
+                "resolution_h": 512
+              }
+            }
+          ],
+          "lights": [
+            {
+              "wavelength": "visible"
+            }
+          ],
           "location": {
             "z": {
               "type": "list",
               "values": [
-                1
+                10
               ]
             }
           }
