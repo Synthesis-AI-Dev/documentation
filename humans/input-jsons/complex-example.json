@@ -1,283 +1,410 @@
 {
-  "humans": [
-    {
-      "identities": {
-        "ids": [
-          75,
-          80
+  "version": 1,
+  "humans": [{
+    "identities": {
+      "ids": [
+        23, 80
+      ],
+      "renders_per_identity": 5
+    },
+    "facial_attributes": {
+      "expression": [{
+        "name": [
+          "none"
         ],
-        "renders_per_identity": 50
+        "intensity": {
+          "type": "list",
+          "values": [0.75]
+        },
+        "percent": 100
+      }],
+      "gaze": [{
+        "horizontal_angle": {
+          "type": "list",
+          "values": [0]
+        },
+        "vertical_angle": {
+          "type": "list",
+          "values": [0]
+        },
+        "percent": 100
+      }],
+      "head_turn": [{
+        "pitch": {
+          "type": "list",
+          "values": [-10,0,10]
+        },
+        "yaw": {
+          "type": "list",
+          "values": [-10,0,10]
+        },
+        "roll": {
+          "type": "list",
+          "values": [-10,0,10]
+        },
+        "percent": 100
+      }],
+      "hair": [{
+        "style": [
+          "none"
+        ],
+        "color": [
+          "chocolate_brown"
+        ],
+        "color_seed": {
+          "type": "list",
+          "values": [0]
+        },
+        "relative_density": {
+          "type": "list",
+          "values": [1.0]
+        },
+        "relative_length": {
+          "type": "list",
+          "values": [1.0]
+        },
+        "sex_matched_only": true,
+        "ethnicity_matched_only": false,
+        "percent": 100
+      }],
+      "facial_hair": [{
+        "style": [
+          "none"
+        ],
+        "color": [
+          "chocolate_brown"
+        ],
+        "color_seed": {
+          "type": "list",
+          "values": [0]
+        },
+        "match_hair_color": true,
+        "relative_density": {
+          "type": "list",
+          "values": [1.0]
+        },
+        "relative_length": {
+          "type": "list",
+          "values": [1.0]
+        },
+        "percent": 100
+      }],
+      "eyebrows": [{
+        "match_id_eyebrows": true,
+        "style": ["male_manicured_thick_1", "female_manicured_curve_1"],
+        "relative_length": {
+          "type": "range",
+          "values": {
+            "min": 1.0,
+            "max": 1.0
+          }
+        },
+        "relative_density": {
+          "type": "range",
+          "values": {
+            "min": 1.0,
+            "max": 1.0
+          }
+        },
+        "color": ["all"],
+        "color_seed": {
+          "type": "list",
+          "values": [0]
+        },
+        "match_hair_color": true,
+        "sex_matched_only": true,
+        "percent": 100
+      }]
+    },
+    "accessories": {
+      "glasses": [{
+        "style": ["none"],
+        "lens_color": ["default"],
+        "transparency": {
+          "type": "list",
+          "values": [1]
+        },
+        "metalness": {
+          "type": "list",
+          "values": [0]
+        },
+        "sex_matched_only": true,
+        "percent": 100
+      }],
+      "headwear": [{
+        "style": [
+          "none"
+        ],
+        "sex_matched_only": true,
+        "percent": 100
+      }],
+      "masks": [{
+        "style": [
+          "none"
+        ],
+        "position": ["2"],
+        "variant": ["0"],
+        "percent": 100
+      }],
+      "headphones": [{
+        "style": [
+          "none"
+        ],
+        "percent": 100
+      }]
+    },
+    "body": [{
+      "enabled": true,
+      "match_id_body_type": true,
+      "height": ["median"],
+      "fat_content": ["median"],
+      "percent": 100
+    }],
+    "gesture": [{
+      "name": [
+        "default"
+      ],
+      "keyframe_only": false,
+      "mirrored": false,
+      "position_seed": 0,
+      "percent": 100
+    }],
+    "agent": {
+      "style": ["00021_Yvonne004"],
+      "enabled": ["false"],
+      "position_seed": 0
+    },
+    "clothing": [{
+      "outfit": ["jeans_and_hoodie_2"],
+      "sex_matched_only": true,
+      "single_style_per_id": false,
+      "percent": 100
+    }],
+    "environment": {
+      "hdri": {
+        "name": [
+          "lauter_waterfall"
+        ],
+        "intensity": {
+          "type": "list",
+          "values": [0.75]
+        },
+        "rotation": {
+          "type": "list",
+          "values": [0]
+        }
       },
-      "facial_attributes": {
-        "expression": [
-          {
-            "name": [
-              "all"
-            ],
-            "intensity": {
-              "type": "range",
-              "values": {
-                "min": 0.0,
-                "max": 1.0
-              }
-            },
-            "percent": 50
-          },
-          {
-            "name": [
-              "none"
-            ],
-            "percent": 50
+      "location": {
+        "enabled": ["false"],
+        "id": ["0"],
+        "indoor_light_enabled": ["false"],
+        "head_position_seed": {
+          "type": "list",
+          "values": [0]
+        },
+        "facing_direction": {
+          "type": "list",
+          "values": [0]
+        }
+      }
+    },
+    "camera_and_light_rigs": [{
+      "type": "head_orbit",
+      "location": {
+        "pitch": {
+          "type": "range",
+          "values": {
+            "min": -20,
+            "max": 20
           }
-        ],
-        "gaze": [
-          {
-            "horizontal_angle": {
-              "type": "range",
-              "values": {
-                "min": -30.0,
-                "max": 30.0
-              }
-            },
-            "vertical_angle": {
-              "type": "range",
-              "values": {
-                "min": -30.0,
-                "max": 30.0
-              }
-            },
-            "percent": 100
+        },
+        "yaw": {
+          "type": "range",
+          "values": {
+            "min": -20,
+            "max": 20
           }
-        ],
-        "head_turn": [
-          {
-            "pitch": {
-              "type": "range",
-              "values": {
-                "min": -45.0,
-                "max": 45.0
-              }
-            },
-            "yaw": {
-              "type": "range",
-              "values": {
-                "min": -45.0,
-                "max": 45.0
-              }
-            },
-            "roll": {
-              "type": "range",
-              "values": {
-                "min": -45.0,
-                "max": 45.0
-              }
-            },
-            "percent": 25
-          },
-          {
-            "pitch": {
-              "type": "list",
-              "values": [
-                0.0
-              ]
-            },
-            "yaw": {
-              "type": "list",
-              "values": [
-                0.0
-              ]
-            },
-            "roll": {
-              "type": "list",
-              "values": [
-                0.0
-              ]
-            },
-            "percent": 75
+        },
+        "roll": {
+          "type": "range",
+          "values": {
+            "min": 0,
+            "max": 0
           }
-        ],
-        "hair": [
-          {
-            "style": [
-              "all"
-            ],
-            "color": [
-              "all"
-            ],
-            "sex_matched_only": true,
-            "ethnicity_matched_only": true,
-            "relative_length": {
-              "type": "range",
-              "values": {
-                "min": 0.75,
-                "max": 1.0
-              }
-            },
-            "relative_density": {
-              "type": "range",
-              "values": {
-                "min": 0.75,
-                "max": 1
-              }
-            },
-            "percent": 100
+        },
+        "x": {
+          "type": "range",
+          "values": {
+            "min": -0.05,
+            "max": 0.05
           }
-        ],
-        "facial_hair": [
-          {
-            "style": [
-              "none"
-            ],
-            "percent": 100
+        },
+        "y": {
+          "type": "range",
+          "values": {
+            "min": -0.05,
+            "max": 0.05
           }
-        ]
-      },
-      "accessories": {
-        "glasses": [
-          {
-            "style": [
-              "all"
-            ],
-            "lens_color": [
-              "default"
-            ],
-            "sex_matched_only": true,
-            "percent": 25
-          },
-          {
-            "style": [
-              "all"
-            ],
-            "lens_color": [
-              "all"
-            ],
-            "sex_matched_only": true,
-            "percent": 10
-          },
-          {
-            "style": [
-              "none"
-            ],
-            "percent": 65
-          }
-        ],
-        "headwear": [
-          {
-            "style": [
-              "none"
-            ],
-            "sex_matched_only": true,
-            "percent": 100
-          }
-        ],
-        "masks": [
-          {
-            "style": [
-              "all"
-            ],
-            "percent": 25
-          },
-          {
-            "style": [
-              "none"
-            ],
-            "percent": 75
-          }
-        ],
-        "headphones": [
-          {
-            "style": [
-              "all"
-            ],
-            "percent": 10
-          },
-          {
-            "style": [
-              "none"
-            ],
-            "percent": 90
-          }
-        ]
-      },
-      "environment": {
-        "hdri": {
-          "name": [
-            "all"
-          ],
-          "intensity": {
-            "type": "range",
-            "values": {
-              "min": 0.5,
-              "max": 2.0
-            }
-          },
-          "rotation": {
-            "type": "range",
-            "values": {
-              "min": -180,
-              "max": 180
-            }
+        },
+        "z": {
+          "type": "range",
+          "values": {
+            "min": 2,
+            "max": 5
           }
         }
       },
-      "camera_and_light_rigs": [
-        {
-          "cameras": [
-            {
-              "specifications": {
-                "focal_length": {
-                  "type": "range",
-                  "values": {
-                    "min": 1,
-                    "max": 18
-                  }
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
-              }
+      "cameras": [{
+        "name": "mycamera",
+        "specifications": {
+          "resolution_h": 1024,
+          "resolution_w": 1024,
+          "focal_length": {
+            "type": "range",
+            "values": {
+              "min": 100,
+              "max": 100
             }
-          ],
-          "lights": [
-            {
-              "size_meters": {
-                "type": "list",
-                "values": [
-                  1.0
-                ]
-              },
-              "intensity": {
-                "type": "list",
-                "values": [
-                  4.0
-                ]
-              }
+          },
+          "sensor_width": {
+            "type": "range",
+            "values": {
+              "min": 33,
+              "max": 33
             }
-          ],
-          "location": {
-            "yaw": {
-              "type": "range",
-              "values": {
-                "min": -100.0,
-                "max": 100.0
-              }
-            },
-            "pitch": {
-              "type": "range",
-              "values": {
-                "min": -100.0,
-                "max": 100.0
-              }
-            },
-            "z": {
-              "type": "range",
-              "values": {
-                "min": 0.2,
-                "max": 1.5
-              }
+          },
+          "wavelength": "visible"
+        },
+        "relative_location": {
+          "pitch": {
+            "type": "range",
+            "values": {
+              "min": -5,
+              "max": 5
+            }
+          },
+          "yaw": {
+            "type": "range",
+            "values": {
+              "min": -5,
+              "max": 5
+            }
+          },
+          "roll": {
+            "type": "range",
+            "values": {
+              "min": 0,
+              "max": 0
+            }
+          },
+          "x": {
+            "type": "range",
+            "values": {
+              "min": -0.05,
+              "max": 0.05
+            }
+          },
+          "y": {
+            "type": "range",
+            "values": {
+              "min": -0.05,
+              "max": 0.05
+            }
+          },
+          "z": {
+            "type": "range",
+            "values": {
+              "min": -0.05,
+              "max": 0.05
             }
           }
         }
-      ]
-    }
-  ]
+      }],
+      "lights": [{
+        "type": "spot",
+        "wavelength": "visible",
+        "intensity": {
+          "type": "range",
+          "values": {
+            "min": 0.0,
+            "max": 30.0
+          }
+        },
+        "size_meters": {
+          "type": "range",
+          "values": {
+            "min": 1,
+            "max": 3.0
+          }
+        },
+        "relative_location": {
+          "pitch": {
+            "type": "range",
+            "values": {
+              "min": -10,
+              "max": 10
+            }
+          },
+          "yaw": {
+            "type": "range",
+            "values": {
+              "min": -10,
+              "max": 10
+            }
+          },
+          "roll": {
+            "type": "range",
+            "values": {
+              "min": -10,
+              "max": 10
+            }
+          },
+          "x": {
+            "type": "range",
+            "values": {
+              "min": 0,
+              "max": 0
+            }
+          },
+          "y": {
+            "type": "range",
+            "values": {
+              "min": -1,
+              "max": 1
+            }
+          },
+          "z": {
+            "type": "range",
+            "values": {
+              "min": 1.5,
+              "max": 3
+            }
+          }
+        },
+        "color": {
+          "red": {
+            "type": "range",
+            "values": {
+              "min": 0,
+              "max": 255
+            }
+          },
+          "green": {
+            "type": "range",
+            "values": {
+              "min": 0,
+              "max": 255
+            }
+          },
+          "blue": {
+            "type": "range",
+            "values": {
+              "min": 0,
+              "max": 255
+            }
+          }
+        }
+      }]
+    }]
+  }]
 }
