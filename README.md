@@ -1,2 +1,2 @@
 # documentation
-Synthesis Face API Documentation - Appendix Files
+Synthesis Face API Documentation - Appendix Files.
