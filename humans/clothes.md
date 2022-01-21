@@ -79,5 +79,7 @@ Clothing Outfits
   "khakis_polo_vest_deepblue",
   "khakis_polo_vest_lightblue",
   "khakis_polo_vest_red"
+  "jeans_and_vest_0",
+  "jeans_and_vest_1",
 ]
 ```
