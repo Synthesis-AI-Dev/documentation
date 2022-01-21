@@ -133,7 +133,6 @@
         ],
         "eyebrows": [
           {
-            "match_id_eyebrows": true,
             "style": [
               "male_manicured_thick_1",
               "female_manicured_curve_1"

@@ -11,7 +11,6 @@
       "facial_attributes": {
         "eyebrows": [
           {
-            "match_id_eyebrows": false,
             "style": [
               "male_manicured_broad_1",
               "female_manicured_broad_1"
