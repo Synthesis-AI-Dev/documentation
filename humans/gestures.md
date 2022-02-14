@@ -51,6 +51,7 @@ Gesture with their frame Count at 30 frames per second:
 | holding_walk                      | 1           |
 | idle                              | 101         |
 | inplace_idle_waiting              | 101         |
+| jog                               | 76          |
 | keyboard_typing                   | 97          |
 | leave_the_desk                    | 101         |
 | listing_in_index_1                | 150         |
@@ -87,6 +88,7 @@ Gesture with their frame Count at 30 frames per second:
 | phone_check_quick                 | 136         |
 | pick_up_object_on_flat_surface    | 103         |
 | point_finger_at                   | 144         |
+| point_finger_stand                | 144         |
 | pointing_vertical_surface         | 118         |
 | pour                              | 137         |
 | pushups                           | 47          |
@@ -195,7 +197,8 @@ Gesture with their frame Count at 30 frames per second:
 | vehicle_waving_arms_celebration   | 106         |
 | vehicle_whisper                   | 308         |
 | vehicle_writing_horizontal        | 108         |
-| waiting_stand                     | 101         | 
+| waiting_stand                     | 101         |
+| walk_in_place                     | 71          |
 | walking                           | 101         |
 | walking_towards_door              | 65          |
 | wave                              | 54          |
