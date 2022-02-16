@@ -17,24 +17,7 @@
               }
             }
           ],
-          "lights": [
-            {
-              "wavelength": "visible"
-            }
-          ],
           "location": {
-            "yaw": {
-              "type": "list",
-              "values": [
-                0
-              ]
-            },
-            "pitch": {
-              "type": "list",
-              "values": [
-                0
-              ]
-            },
             "z": {
               "type": "list",
               "values": [
