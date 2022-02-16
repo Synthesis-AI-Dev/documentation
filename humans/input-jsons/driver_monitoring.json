@@ -130,14 +130,6 @@
             ],
             "percent": 90
           }
-        ],
-        "headphones": [
-          {
-            "style": [
-              "none"
-            ],
-            "percent": 100
-          }
         ]
       },
       "facial_attributes": {
@@ -383,12 +375,6 @@
           }
         ]
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -437,13 +423,6 @@
             "values": [
               0.1
             ]
-          },
-          "rotation": {
-            "type": "range",
-            "values": {
-              "min": 0,
-              "max": 0
-            }
           }
         },
         "location": {
@@ -649,14 +628,6 @@
             ],
             "percent": 90
           }
-        ],
-        "headphones": [
-          {
-            "style": [
-              "none"
-            ],
-            "percent": 100
-          }
         ]
       },
       "facial_attributes": {
@@ -820,12 +791,6 @@
           }
         ]
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -874,13 +839,6 @@
             "values": [
               0.1
             ]
-          },
-          "rotation": {
-            "type": "range",
-            "values": {
-              "min": 0,
-              "max": 0
-            }
           }
         },
         "location": {
