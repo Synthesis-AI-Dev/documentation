@@ -17,12 +17,6 @@
             "values": [
               1
             ]
-          },
-          "rotation": {
-            "type": "list",
-            "values": [
-              0
-            ]
           }
         }
       },
@@ -34,11 +28,6 @@
                 "resolution_w": 512,
                 "resolution_h": 512
               }
-            }
-          ],
-          "lights": [
-            {
-              "wavelength": "visible"
             }
           ],
           "location": {
