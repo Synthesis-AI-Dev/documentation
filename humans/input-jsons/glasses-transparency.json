@@ -14,9 +14,6 @@
             "style": [
               "male_wire_round_frame"
             ],
-            "lens_color": [
-              "default"
-            ],
             "transparency": {
               "type": "list",
               "values": [
@@ -33,23 +30,6 @@
                 1.0
               ]
             },
-            "sex_matched_only": true,
-            "percent": 100
-          }
-        ],
-        "headwear": [
-          {
-            "style": [
-              "none"
-            ],
-            "percent": 100
-          }
-        ],
-        "masks": [
-          {
-            "style": [
-              "none"
-            ],
             "percent": 100
           }
         ]
