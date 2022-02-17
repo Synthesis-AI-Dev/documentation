@@ -10,27 +10,10 @@
       },
       "facial_attributes": {},
       "accessories": {
-        "glasses": [
-          {
-            "style": [
-              "none"
-            ],
-            "percent": 100
-          }
-        ],
         "headwear": [
           {
             "style": [
               "all"
-            ],
-            "sex_matched_only": true,
-            "percent": 100
-          }
-        ],
-        "masks": [
-          {
-            "style": [
-              "none"
             ],
             "percent": 100
           }
@@ -44,11 +27,6 @@
                 "resolution_w": 512,
                 "resolution_h": 512
               }
-            }
-          ],
-          "lights": [
-            {
-              "wavelength": "visible"
             }
           ],
           "location": {
