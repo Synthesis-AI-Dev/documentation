@@ -1,6 +1,7 @@
 # Rigs: Preset Locations
 
-## Vehicles Preset Locations
+## Vehicles Preset Location Names
+Used with `"type": "preset_location"`
 
 ```json
 "dashboard"
