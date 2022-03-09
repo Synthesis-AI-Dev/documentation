@@ -16,7 +16,6 @@
             "color": [
               "copper_shimmer"
             ],
-            "sex_matched_only": true,
             "ethnicity_matched_only": true,
             "relative_length": {
               "type": "list",
@@ -39,32 +38,6 @@
           }
         ]
       },
-      "accessories": {
-        "glasses": [
-          {
-            "style": [
-              "none"
-            ],
-            "percent": 100
-          }
-        ],
-        "headwear": [
-          {
-            "style": [
-              "none"
-            ],
-            "percent": 100
-          }
-        ],
-        "masks": [
-          {
-            "style": [
-              "none"
-            ],
-            "percent": 100
-          }
-        ]
-      },
       "camera_and_light_rigs": [
         {
           "cameras": [
@@ -73,11 +46,6 @@
                 "resolution_w": 512,
                 "resolution_h": 512
               }
-            }
-          ],
-          "lights": [
-            {
-              "wavelength": "visible"
             }
           ],
           "location": {
