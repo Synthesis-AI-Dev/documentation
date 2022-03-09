@@ -8,20 +8,6 @@
         "renders_per_identity": 50
       },
       "facial_attributes": {
-        "head_turn": [
-          {
-            "pitch": {
-              "type": "list",
-              "values": [
-                0
-              ]
-            },
-            "yaw": {
-              "type": "list",
-              "values": [
-                0
-              ]
-            },
             "roll": {
               "type": "range",
               "values": {
@@ -29,32 +15,6 @@
                 "max": 45.0
               }
             },
-            "percent": 100
-          }
-        ]
-      },
-      "accessories": {
-        "glasses": [
-          {
-            "style": [
-              "none"
-            ],
-            "percent": 100
-          }
-        ],
-        "headwear": [
-          {
-            "style": [
-              "none"
-            ],
-            "percent": 100
-          }
-        ],
-        "masks": [
-          {
-            "style": [
-              "none"
-            ],
             "percent": 100
           }
         ]
@@ -67,11 +27,6 @@
                 "resolution_w": 512,
                 "resolution_h": 512
               }
-            }
-          ],
-          "lights": [
-            {
-              "wavelength": "visible"
             }
           ],
           "location": {

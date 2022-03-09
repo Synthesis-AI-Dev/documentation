@@ -81,7 +81,6 @@ Gesture with their frame Count at 30 frames per second:
 | market_checkout_1                 | 391         |
 | market_checkout_2                 | 211         |
 | market_checkout_3                 | 250         |
-| none                              | 1           |
 | ok                                | 60          |
 | open_door                         | 56          |
 | opens_arms_hand_talking           | 90          |

@@ -36,22 +36,6 @@
             "sex_matched_only": true,
             "percent": 100
           }
-        ],
-        "headwear": [
-          {
-            "style": [
-              "none"
-            ],
-            "percent": 100
-          }
-        ],
-        "masks": [
-          {
-            "style": [
-              "none"
-            ],
-            "percent": 100
-          }
         ]
       },
       "environment": {

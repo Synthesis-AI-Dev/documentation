@@ -247,15 +247,6 @@
           "percent": 100
         }
       ],
-      "agent": {
-        "style": [
-          "00021_Yvonne004"
-        ],
-        "enabled": [
-          "false"
-        ],
-        "position_seed": 0
-      },
       "clothing": [
         {
           "outfit": [

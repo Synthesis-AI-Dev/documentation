@@ -9,30 +9,6 @@
       },
       "facial_attributes": {},
       "accessories": {
-        "glasses": [
-          {
-            "style": [
-              "none"
-            ],
-            "percent": 100
-          }
-        ],
-        "headwear": [
-          {
-            "style": [
-              "none"
-            ],
-            "percent": 100
-          }
-        ],
-        "masks": [
-          {
-            "style": [
-              "none"
-            ],
-            "percent": 100
-          }
-        ],
         "headphones": [
           {
             "style": [
@@ -50,11 +26,6 @@
                 "resolution_w": 512,
                 "resolution_h": 512
               }
-            }
-          ],
-          "lights": [
-            {
-              "wavelength": "visible"
             }
           ],
           "location": {

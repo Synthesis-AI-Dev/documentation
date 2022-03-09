@@ -17,38 +17,6 @@
                 "max": 30.0
               }
             },
-            "vertical_angle": {
-              "type": "list",
-              "values": [
-                0
-              ]
-            },
-            "percent": 100
-          }
-        ]
-      },
-      "accessories": {
-        "glasses": [
-          {
-            "style": [
-              "none"
-            ],
-            "percent": 100
-          }
-        ],
-        "headwear": [
-          {
-            "style": [
-              "none"
-            ],
-            "percent": 100
-          }
-        ],
-        "masks": [
-          {
-            "style": [
-              "none"
-            ],
             "percent": 100
           }
         ]
@@ -61,11 +29,6 @@
                 "resolution_w": 512,
                 "resolution_h": 512
               }
-            }
-          ],
-          "lights": [
-            {
-              "wavelength": "visible"
             }
           ],
           "location": {

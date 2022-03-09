@@ -8,12 +8,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -33,14 +27,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -67,12 +56,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -92,14 +75,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -126,12 +104,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -151,14 +123,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -185,12 +152,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -210,14 +171,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -244,12 +200,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -269,14 +219,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -303,12 +248,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -328,14 +267,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -362,12 +296,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -387,14 +315,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -421,12 +344,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -446,14 +363,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -480,12 +392,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -505,14 +411,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -539,12 +440,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -564,14 +459,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -598,12 +488,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -623,14 +507,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -657,12 +536,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -682,14 +555,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -716,12 +584,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -741,14 +603,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -775,12 +632,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -800,14 +651,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -834,12 +680,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -859,14 +699,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -893,12 +728,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -918,14 +747,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -952,12 +776,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -977,14 +795,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -1011,12 +824,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -1036,14 +843,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -1070,12 +872,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -1095,14 +891,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -1129,12 +920,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -1154,14 +939,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -1188,12 +968,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -1213,14 +987,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -1247,12 +1016,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -1272,14 +1035,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -1306,12 +1064,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -1331,14 +1083,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -1365,12 +1112,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -1390,14 +1131,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -1424,12 +1160,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -1449,14 +1179,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -1483,12 +1208,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -1508,14 +1227,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -1542,12 +1256,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -1567,14 +1275,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -1601,12 +1304,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -1626,14 +1323,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -1660,12 +1352,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -1685,14 +1371,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -1719,12 +1400,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -1744,14 +1419,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -1778,12 +1448,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -1803,14 +1467,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -1837,12 +1496,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -1862,14 +1515,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -1895,13 +1543,7 @@
           80
         ],
         "renders_per_identity": 1
-      },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
+      }
       "clothing": [
         {
           "outfit": [
@@ -1921,14 +1563,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -1955,12 +1592,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -1980,14 +1611,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
@@ -2014,12 +1640,6 @@
         ],
         "renders_per_identity": 1
       },
-      "body": [
-        {
-          "enabled": true,
-          "percent": 100
-        }
-      ],
       "clothing": [
         {
           "outfit": [
@@ -2039,14 +1659,9 @@
                   "values": [
                     28
                   ]
-                },
-                "resolution_w": 512,
-                "resolution_h": 512
+                }
               }
             }
-          ],
-          "lights": [
-            {}
           ],
           "location": {
             "pitch": {
