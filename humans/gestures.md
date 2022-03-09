@@ -63,7 +63,6 @@ Gesture with their frame Count at 30 frames per second:
 | listing_out_thumb_5               | 130         |
 | look_left                         | 33          |
 | look_right                        | 15          |
-| none                              | 1           |
 | ok                                | 60          |
 | opens_arms_hand_talking           | 90          |
 | phone_check_quick                 | 136         |
