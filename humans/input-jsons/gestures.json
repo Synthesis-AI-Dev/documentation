@@ -26,11 +26,6 @@
               }
             }
           ],
-          "lights": [
-            {
-              "wavelength": "visible"
-            }
-          ],
           "location": {
             "z": {
               "type": "list",
