@@ -1,0 +1,65 @@
+{
+	"humans": [{
+		"identities": {"ids": [11,21,29,31,33,35,37,39,41,43],"renders_per_identity": 10},
+		"accessories": {
+		  "glasses": [{
+			"style": ["all"],
+			"transparency": {"type":"list", "values": [1]},
+			"metalness": {"type":"list", "values": [0.03]},
+			"percent": 40
+		  },{
+			"style": ["none"],
+			"percent": 60
+		  }],
+		  "masks": [{
+			"style": ["all"],
+			"percent": 10
+		  },{
+			"style": ["none"],
+			"percent": 90
+		  }]
+		},
+		"facial_attributes": {
+		   "gaze": [{
+			 "horizontal_angle": { "type": "range", "values": {"min": -15.0, "max": 15.0 }},
+			 "vertical_angle": { "type": "range", "values": {"min": -15.0, "max": 15.0 }},
+			 "percent": 100
+		   }],
+		   "head_turn": [{
+			 "pitch": { "type": "range", "values": {"min": -20.0, "max": 45.0 }},
+			 "yaw": { "type": "range", "values": {"min": -45.0, "max": 45.0 }},
+			 "roll": { "type": "range", "values": {"min": -10, "max": 10 }},
+			 "percent": 100
+		   }],
+		   "hair": [{
+			  "style": ["all"],
+			  "color": ["all"],
+			  "relative_length": {"type": "range", "values": {"min": 0.85, "max": 1}},
+			  "relative_density": {"type": "range", "values": {"min": 0.85, "max": 1}},
+			  "percent": 100
+			}],
+		   "facial_hair": [{
+			 "style": ["all"],
+			 "relative_length": { "type": "range", "values": {"min": 0.5, "max": 1.0 }},
+			 "relative_density": {"type": "list", "values": [1.0]},
+			 "percent": 20
+		   },{
+			 "style": ["none"],
+			 "percent": 80
+		   }]
+		 },
+		 "clothing": [{
+		  "outfit": ["work_casual_0","work_professional_1","sunday_bbq_2","jeans_and_hoodie_3","longsleeve_dress_black","khakis_dressshirt_lightblue","khakis_polo_brown","khakis_dressshirt_deepblue","khakis_dressshirt_brightblue"],
+		  "percent": 100
+		}],
+		"environment": {"hdri": {"name": ["all"]}},
+		"camera_and_light_rigs": [{
+			"type": "head_orbit_with_tracking",
+			"cameras": [{"specifications": {"resolution_w": 1024,"resolution_h": 1024}}],
+			"location": {
+				"yaw": {"type": "range","values": {"min": -25,"max": 25}},
+				"pitch": {"type": "range","values": {"min": -25,"max": 25}}
+			}
+		}]
+	}]
+}
