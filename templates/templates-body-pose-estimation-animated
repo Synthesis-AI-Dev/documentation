@@ -9,9 +9,8 @@
         }],
       "environment": {
 			"hdri": {
-				"name": ["canada_montreal_nad_cafeteria"],
-				"intensity": {"type": "list","values": [1]},
-				"rotation": {"type": "list","values": [-150]}
+				"name": ["all"],
+				"type": "range","values": {"min": -180,"max": 180}
 			}
 		},
       "camera_and_light_rigs": [{
