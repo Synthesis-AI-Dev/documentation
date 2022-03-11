@@ -1,0 +1,222 @@
+{
+  "humans": [
+	{
+      "identities": {
+        "ids": [
+            11,21,29,31,33,35,37,39,41,43,
+			51,55,61,63,65,69,71,73,75,89,
+			91,97,101,107,111,113,115,121,125,127,
+			131,132,133,149,154,163,174,176,178,179,
+			229,231,247,291,297,313,319,321,323,325,
+			24,26,36,38,56,58,60,64,72,78,
+			80,82,84,86,88,90
+        ],
+        "renders_per_identity": 1
+      },
+      "facial_attributes": {
+        "facial_hair": [{
+		  "style": ["all"],
+		  "relative_length": {"type": "range","values": {"min": 0.5,"max": 1}},
+		  "relative_density": {"type": "list", "values": [1.0]},
+		  "percent": 20
+		},{
+		  "style": ["none"],
+		  "percent": 80
+		}]
+      },
+      "accessories": {
+        "glasses": [{
+          "style": ["all"],
+          "lens_color": ["default"],
+          "transparency": {"type": "range","values": {"min": 1,"max": 1}},
+          "metalness": {"type": "range","values": {"min": 0,"max": 0.03}},
+          "percent": 20
+        },{
+          "style": ["none"],
+          "percent": 80
+        }],
+        "headphones": [
+			{"style": ["all"],"percent": 20},
+			{"style": ["none"],"percent": 80}
+		]
+      },
+      "gesture": [{
+        "name": [
+		"look_left","look_right","wave","chat_left","chat_right","chat_side",
+		"hand_talking_2","hand_talking_3","hand_talking_4","high_five",
+		"keyboard_typing","ok","point_finger_at","pointing_vertical_surface",
+		"shake_hand_no","shrug_hands_out","thumbs_down","thumbs_up","typing",
+		"wave_hello","writing_horizontal"
+        ],
+        "percent": 100
+      }],
+      "environment": {
+        "hdri": {
+          "name": [
+            "adams_place_bridge",
+			"canada_montreal_nad_photorealism",
+			"colorful_studio",
+			"dance_studio",
+			"hotel_room",
+			"mall_top_floor_12",
+			"mall_top_floor_13",
+			"mall_top_floor_2",
+			"st_fagans_interior"
+          ],
+		  "rotation": {"type": "range","values": {"min": -180,"max": 180}},
+          "intensity": {"type": "list","values": [0.1]}
+        }
+      },
+      "camera_and_light_rigs": [{
+		"type": "head_orbit",
+		"lights": [{
+			"type": "omni",
+			"color": {
+				"red": {"type": "list","values": [142]},
+				"blue": {"type": "list","values": [234]},
+				"green": {"type": "list","values": [188]}
+			},
+			"intensity": {"type": "list","values": [0.11]},
+			"wavelength": "visible",
+			"size_meters": {"type": "list","values": [0.5]},
+			"relative_location": {
+				"x": {"type": "list","values": [0.03]},
+				"y": {"type": "list","values": [-0.33]},
+				"z": {"type": "list","values": [-0.63]}
+			}
+		}],
+		"cameras": [{
+			"name": "default",
+			"specifications": {
+				"wavelength": "visible",
+				"focal_length": {"type": "list","values": [150]},
+				"resolution_h": 1024,
+				"resolution_w": 1024,
+				"sensor_width": {"type": "list","values": [150]}
+			}
+		}],
+		"location": {
+			"yaw": {"type": "range","values": {"min": -15,"max": 15}},
+			"pitch": {"type": "range","values": {"min": -15,"max": 15}},
+			"z": {"type": "range","values": {"min": 0.8,"max": 0.9}}
+			}
+		}]
+    },{
+      "identities": {
+        "ids": [
+			116,124,128,180,182,183,184,185,186,199,
+			201,205,206,208,210,212,221,223,226,228,
+			230,242,248,274,286,288,302,320,327,330,
+            94,110,112,114
+        ],
+        "renders_per_identity": 1
+      },
+      "facial_attributes": {
+        "facial_hair": [{
+		  "style": ["all"],
+		  "relative_length": {"type": "range","values": {"min": 0.5,"max": 1}},
+		  "relative_density": {"type": "list", "values": [1.0]},
+		  "percent": 20
+		},{
+		  "style": ["none"],
+		  "percent": 80
+		}]
+      },
+      "accessories": {
+        "glasses": [{
+          "style": ["all"],
+          "lens_color": ["default"],
+          "transparency": {"type": "range","values": {"min": 1,"max": 1}},
+          "metalness": {"type": "range","values": {"min": 0,"max": 0.03}},
+          "percent": 20
+        },{
+          "style": ["none"],
+          "percent": 80
+        }],
+        "headphones": [
+		  {"style": ["all"],"percent": 20},
+		  {"style": ["none"],"percent": 80}
+		]
+      },
+      "gesture": [{
+        "name": [
+		"look_left","look_right","wave","chat_left","chat_right","chat_side",
+		"hand_talking_2","hand_talking_3","hand_talking_4","high_five",
+		"keyboard_typing","ok","point_finger_at","pointing_vertical_surface",
+		"shake_hand_no","shrug_hands_out","thumbs_down","thumbs_up","typing",
+		"wave_hello","writing_horizontal"
+        ],
+        "percent": 100
+      }],
+      "environment": {
+        "hdri": {
+          "name": [
+            "adams_place_bridge",
+			"canada_montreal_nad_photorealism",
+			"colorful_studio",
+			"dance_studio",
+			"hotel_room",
+			"mall_top_floor_12",
+			"mall_top_floor_13",
+			"mall_top_floor_2",
+			"st_fagans_interior"
+          ],
+		  "rotation": {"type": "range","values": {"min": -180,"max": 180}},
+          "intensity": {"type": "range","values": {"min": 0.75,"max": 1.3}}
+        }
+      },
+      "camera_and_light_rigs": [{
+		"type": "head_orbit",
+		"lights": [{
+			"type": "omni",
+			"color": {
+				"red": {"type": "list","values": [142]},
+				"blue": {"type": "list","values": [234]},
+				"green": {"type": "list","values": [188]}
+			},
+			"intensity": {"type": "list","values": [0.11]},
+			"wavelength": "visible",
+			"size_meters": {"type": "list","values": [0.5]},
+			"relative_location": {
+				"x": {"type": "list","values": [0.03]},
+				"y": {"type": "list","values": [-0.33]},
+				"z": {"type": "list","values": [-0.63]}
+			}
+		},{
+            "type": "rect", 
+            "wavelength": "visible",
+             "intensity": {"type": "list", "values": [100] },
+            "size_meters": {"type": "list", "values": [3]},
+            "relative_location": {
+              "pitch": {"type": "list", "values": [0]},
+              "yaw": {"type": "list", "values": [0]},
+              "roll": {"type": "list", "values": [0]},
+              "x": {"type": "list", "values": [0]},
+              "y": {"type": "list", "values": [0]},
+              "z": {"type": "list", "values": [3]}
+            },
+            "color": {
+              "red": {"type": "list", "values": [255]},
+              "green": {"type": "list", "values": [255]},
+              "blue": {"type": "list", "values": [255]}
+            }
+          }],
+		"cameras": [{
+			"name": "default",
+			"specifications": {
+				"wavelength": "visible",
+				"focal_length": {"type": "list","values": [150]},
+				"resolution_h": 1024,
+				"resolution_w": 1024,
+				"sensor_width": {"type": "list","values": [150]}
+			}
+		}],
+		"location": {
+			"yaw": {"type": "range","values": {"min": -15,"max": 15}},
+			"pitch": {"type": "range","values": {"min": -15,"max": 15}},
+			"z": {"type": "range","values": {"min": 0.8,"max": 0.9}}
+			}
+		}]
+    }
+  ]
+}
