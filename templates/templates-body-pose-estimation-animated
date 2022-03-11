@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "humans": [{
+      "identities": {"ids": [80],"renders_per_identity": 1},
+      "gesture": [{
+          "name": ["elbow_bump"],
+          "keyframe_only": false,
+          "percent": 100
+        }],
+      "environment": {
+			"hdri": {
+				"name": ["canada_montreal_nad_cafeteria"],
+				"intensity": {"type": "list","values": [1]},
+				"rotation": {"type": "list","values": [-150]}
+			}
+		},
+      "camera_and_light_rigs": [{
+		  "type": "head_orbit",
+			"cameras": [{
+				"specifications": {"resolution_w": 1024, "resolution_h": 1024},
+				"relative_location": {
+					"y": {"type": "list", "values": [-0.5]},
+					"z": {"type": "list", "values": [6]}
+				}
+			}]
+		}]
+    }]
+}
