@@ -6,10 +6,10 @@
 			"style": ["all"],
 			"transparency": {"type":"list", "values": [1]},
 			"metalness": {"type":"list", "values": [0.03]},
-			"percent": 40
+			"percent": 20
 		  },{
 			"style": ["none"],
-			"percent": 60
+			"percent": 80
 		  }],
 		  "masks": [{
 			"style": ["all"],
