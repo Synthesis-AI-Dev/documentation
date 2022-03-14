@@ -21,15 +21,15 @@
 				"style": ["all"],
 				"transparency": {"type":"list", "values": [1]},
 				"metalness": {"type":"list", "values": [0.03]},
-				"percent": 33
+				"percent": 10
 				},{
 				"style": ["all"],
 				"transparency": {"type":"list", "values": [0.95]},
 				"metalness": {"type":"list", "values": [0.4]},
-				"percent": 33
+				"percent": 10
 				},{
 				"style": ["none"],
-				"percent": 34
+				"percent": 80
 				}]
 			},
 			"facial_attributes": {
