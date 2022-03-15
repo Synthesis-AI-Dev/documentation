@@ -33,7 +33,6 @@
 				}]
 			},
 			"facial_attributes": {
-				"facial_attributes": {
 				"head_turn": [{
 					"pitch": {"type": "range","values": {"min": -30,"max": 15}},
 					"yaw": {"type": "range","values": {"min": -40,"max": 40}},
