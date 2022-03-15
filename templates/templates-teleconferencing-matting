@@ -188,6 +188,7 @@
              "intensity": {"type": "list", "values": [100] },
             "size_meters": {"type": "list", "values": [3]},
             "relative_location": {
+	      "yaw": {"type": "list", "values": [-90,180,90]},
               "z": {"type": "list", "values": [3]}
             },
             "color": {
