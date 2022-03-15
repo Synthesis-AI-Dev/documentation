@@ -34,7 +34,7 @@
 			},
 			"facial_attributes": {
 				"head_turn": [{
-					"pitch": {"type": "range","values": {"min": -15,"max": 30}},
+					"pitch": {"type": "range","values": {"min": -30,"max": 15}},
 					"yaw": {"type": "range","values": {"min": -40,"max": 40}},
 					"roll": {"type": "range","values": {"min": -10,"max": 10}},
 					"percent": 100
