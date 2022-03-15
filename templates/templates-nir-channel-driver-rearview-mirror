@@ -33,10 +33,11 @@
 				}]
 			},
 			"facial_attributes": {
+				"facial_attributes": {
 				"head_turn": [{
-					"pitch": {"type": "list", "values": [-30,0,30]},
-					"yaw": {"type": "list", "values": [-30,0,30]},
-					"roll": {"type": "list", "values": [-10,0,10]},
+					"pitch": {"type": "range","values": {"min": -30,"max": 15}},
+					"yaw": {"type": "range","values": {"min": -40,"max": 40}},
+					"roll": {"type": "range","values": {"min": -10,"max": 10}},
 					"percent": 100
 				}],
 				"gaze": [{
