@@ -29,8 +29,10 @@
 			"cameras": [{
 				"specifications": {"resolution_w": 1024, "resolution_h": 1024},
 				"relative_location": {
-					"y": {"type": "list", "values": [-0.5]},
-					"z": {"type": "list", "values": [6]}
+					"y": {"type": "range","values": {"min": -0.5,"max": -0.4}},
+					"z": {"type": "range","values": {"min": 6,"max": 6.3}},
+					"yaw": {"type": "range","values": {"min": -3,"max": 3}},
+					"pitch": {"type": "range","values": {"min": -3,"max": 3}}
 				}
 			}]
 		}]
