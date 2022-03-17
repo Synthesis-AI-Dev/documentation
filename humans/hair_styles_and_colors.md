@@ -42,7 +42,7 @@ Valid hair colors:
   "reddish_blonde",
   "pure_diamond",
   "ruby_fusion",
-  "medium_champaign",
+  "medium_champagne",
   "dark_golden_brown"
 ]
 ```
