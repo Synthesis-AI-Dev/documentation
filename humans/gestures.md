@@ -122,10 +122,8 @@ Gesture with their frame Count at 30 frames per second:
 | shake_hand_no                     | 108         |
 | shake_head_no                     | 163         |
 | shhhh                             | 30          |
-| short_dance_02                    | 538         |
 | short_dance_03                    | 457         |
 | short_dance_04                    | 442         |
-| short_dance_05                    | 402         |
 | short_dance_06                    | 372         |
 | short_dance_07                    | 247         |
 | short_dance_08                    | 283         |
