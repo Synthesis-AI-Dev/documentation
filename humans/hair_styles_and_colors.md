@@ -5,6 +5,7 @@ Valid hair styles:
 ```json
 [
   "female_hair_bob_1",
+  "female_hair_long_curly"
   "female_hair_long_curly_1",
   "female_hair_long_simple_1",
   "female_hair_long_wavy_1",
@@ -28,6 +29,7 @@ Valid hair styles:
 ]
 ```
 
+
 Valid hair colors:
 
 ```json
@@ -43,6 +45,14 @@ Valid hair colors:
   "pure_diamond",
   "ruby_fusion",
   "medium_champagne",
-  "dark_golden_brown"
+  "dark_golden_brown",
+  "dark_brown",
+  "darkest_brown",
+  "brown_graying",
+  "blonde_graying",
+  "red_graying",
+  "salt_and_pepper",
+  "gray",
+  "white_gray"
 ]
 ```
