@@ -181,7 +181,6 @@ Gesture with their frame Count at 30 frames per second:
 | vehicle_hand_talking_2            | 457         |
 | vehicle_hand_talking_3            | 292         |
 | vehicle_hand_talking_4            | 213         |
-| vehicle_hands_behind_head         | 76          |
 | vehicle_head_down                 | 97          |
 | vehicle_high_five                 | 40          |
 | vehicle_hold_head                 | 76          |
@@ -209,7 +208,6 @@ Gesture with their frame Count at 30 frames per second:
 | vehicle_look_right                | 15          |
 | vehicle_ok                        | 60          |
 | vehicle_opens_arms_hand_talking   | 90          |
-| vehicle_phone_check_quick         | 136         |
 | vehicle_point_finger_at           | 144         |
 | vehicle_pointing_vertical_surface | 118         |
 | vehicle_pour                      | 137         |
