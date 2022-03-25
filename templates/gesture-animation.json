@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "humans": [
+    {
+      "identities": {
+        "ids": [80],
+        "renders_per_identity": 1
+      },
+      "gesture": [{
+		  "name": ["elbow_bump"],
+		  "keyframe_only": false,
+		  "percent": 100
+		}],
+      "environment": {
+			"hdri": {
+				"name": ["all"],
+				"intensity": {"type": "list","values": [1]},
+				"rotation": {"type": "range","values": {"min": -180,"max": 180}}
+			}
+		},
+      "camera_and_light_rigs": [{
+          "cameras": [{
+              "specifications": {
+                "focal_length": {"type": "list","values": [36]}
+              }
+            }],
+          "location": {
+            "pitch": {"type": "range","values": {"min": -35,"max": 25}},
+            "yaw": {"type": "range","values": {"min": -45,"max": 45}},
+            "z": {"type": "list","values": [1.75]},
+            "y": {"type": "list","values": [-0.5]}
+          }
+        }]
+    }
+  ]
+}
