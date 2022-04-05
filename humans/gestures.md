@@ -11,12 +11,18 @@ Gesture with their frame Count at 30 frames per second:
 | apply_lipstick                    | 237         |
 | arms_X                            | 60          |
 | arms_X_head_shake                 | 60          |
+| back_bend_01                      | 416         |
+| boat_pose_01                      | 232         |
+| boat_pose_02                      | 182         |
+| chair_pose                        | 147         |
 | chat_left                         | 327         |
 | chat_right                        | 327         |
 | chat_side                         | 300         |
 | cleaning_idle                     | 21          |
 | close_door                        | 86          |
 | cool_pose                         | 82          |
+| core_plank_pose                   | 160         |
+| core_pose_02                      | 301         |  
 | corridor_idle_1                   | 146         |
 | corridor_idle_2                   | 81          |
 | corridor_idle_3                   | 103         |
@@ -31,9 +37,12 @@ Gesture with their frame Count at 30 frames per second:
 | counting_out_4                    | 150         |
 | counting_out_5                    | 150         |
 | default                           | 1           |
+| downward_facing_dog_pose          | 151         |
 | drink_from_cup                    | 134         |
 | drink_from_glass                  | 141         |
 | elbow_bump                        | 55          |
+| extended_hand_to_big_toe_pose     | 195         |
+| forearm_side_plank_pose           | 230         |
 | general_looking                   | 126         |
 | getting_ready                     | 400         |
 | hand_arms_dance                   | 985         |
@@ -41,6 +50,7 @@ Gesture with their frame Count at 30 frames per second:
 | hand_talking_2                    | 457         |
 | hand_talking_3                    | 292         |
 | hand_talking_4                    | 213         |
+| hand_to_big_toe_pose              | 178         |
 | hands_behind_head                 | 76          |
 | heroine_lookaround                | 150         |
 | high_five                         | 40          |
@@ -67,6 +77,7 @@ Gesture with their frame Count at 30 frames per second:
 | inplace_idle_waiting              | 101         |
 | jog                               | 76          |
 | keyboard_typing                   | 97          |
+| kneel_01                          | 417         |
 | leave_the_desk                    | 101         |
 | listing_in_index_1                | 150         |
 | listing_in_index_2                | 150         |
@@ -107,10 +118,15 @@ Gesture with their frame Count at 30 frames per second:
 | mid_rhythm_dance_14               | 601         |
 | moonwalk_dance_01                 | 337         |
 | ok                                | 60          |
+| one_legged_plank_pose             | 173         |
 | open_door                         | 56          |
 | opens_arms_hand_talking           | 90          |
 | phone_check_quick                 | 136         |
 | pick_up_object_on_flat_surface    | 103         |
+| plank_pose_01                     | 375         |
+| plank_pose_02                     | 197         |
+| plank_pose_03                     | 193         |
+| poets_pose                        | 251         |
 | point_finger_at                   | 144         |
 | pointing_vertical_surface         | 118         |
 | pour                              | 137         |
@@ -118,6 +134,7 @@ Gesture with their frame Count at 30 frames per second:
 | raise_hand                        | 45          |
 | reach_into_fridge                 | 114         |
 | run                               | 40          |
+| scorpion_pose                     | 258         |
 | screen_wipe                       | 20          |
 | shake_hand_no                     | 108         |
 | shake_head_no                     | 163         |
@@ -128,6 +145,7 @@ Gesture with their frame Count at 30 frames per second:
 | short_dance_07                    | 247         |
 | short_dance_08                    | 283         |
 | shrug_hands_out                   | 44          |
+| side_bends_01                     | 185         |
 | sit_to_stand                      | 106         |
 | slow_rhythm_dance_01              | 538         |
 | slow_rhythm_dance_02              | 460         |
@@ -146,6 +164,8 @@ Gesture with their frame Count at 30 frames per second:
 | stand_idle_5                      | 70          |
 | stand_to_sit                      | 82          |
 | standing_pointing                 | 25          |
+| standing_pose_01                  | 335         |
+| standing_split                    | 206         |
 | stretch                           | 216         |
 | stretch_arms_1                    | 83          |
 | stretch_arms_3                    | 102         |
@@ -153,6 +173,7 @@ Gesture with their frame Count at 30 frames per second:
 | thumbs_up                         | 68          |
 | two_hand_phone_usage              | 292         |
 | typing                            | 92          |
+| upward_facing_dog_pose            | 191         |
 | use_gaming_controller             | 486         |
 | vehicle_air_swipe                 | 19          |
 | vehicle_answer_phone_talk         | 371         |
@@ -230,6 +251,7 @@ Gesture with their frame Count at 30 frames per second:
 | walk_in_place                     | 71          |
 | walking                           | 101         |
 | walking_towards_door              | 65          |
+| warrior_pose_02                   | 419         |
 | wave                              | 54          |
 | wave_hello                        | 48          |
 | waving_arms_celebration           | 106         |
