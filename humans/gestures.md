@@ -251,7 +251,6 @@ Gesture with their frame Count at 30 frames per second:
 | walk_in_place                     | 71          |
 | walking                           | 101         |
 | walking_towards_door              | 65          |
-| warrior_pose_02                   | 419         |
 | wave                              | 54          |
 | wave_hello                        | 48          |
 | waving_arms_celebration           | 106         |
