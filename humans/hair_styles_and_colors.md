@@ -20,10 +20,10 @@ Valid hair styles:
   "curtain_09",
   "curtain_10",
   "frenchcrop_01",
-  "frenchcrop_02
+  "frenchcrop_02",
   "frenchcrop_03",
   "layered_01",
-  "layered_02
+  "layered_02",
   "layered_03",
   "layered_04",
   "layered_05",
@@ -40,7 +40,44 @@ Valid hair styles:
   "slicked_01"
 ]
 ```
+Mapping of old hair styles to new hair styles:
 
+|           Old hair style                 |   New hair style  |
+|------------------------------------------|-------------------|
+| "female_hair_bob_1"                      | "bob_01"          |
+| "female_hair_long_chandelierlayers"      | "layered_01"      |
+| "female_hair_long_curly"                 | "layered_02"      |
+| "female_hair_long_curly_1"               | "layered_03"      |
+| "female_hair_long_generic_1"             | "simple_01"       |
+| "female_hair_long_layered_1"             | "layered_04"      |
+| "female_hair_long_simple_1"              | "simple_02"       |
+| "female_hair_long_wavy_1"                | "layered_05"      |
+| "female_hair_medium_bob"                 | "bob_02"          |
+| "female_hair_mid_messy_1"                | "messy_01"        |
+| "female_hair_short_90s"                  | "convertible_01"  |
+| "male_hair_combover_1"                   | "quiff_01"        |
+| "male_hair_curtain_long"                 | "curtain_01"      |
+| "male_hair_curtain_long_cover_eye_both"  | "curtain_02"      |
+| "male_hair_curtain_long_cover_eye_left"  | "curtain_03"      |
+| "male_hair_curtain_long_cover_eye_right" | "curtain_04"      |
+| "male_hair_curtain_long_ear_tuck_both"   | "curtain_05"      |
+| "male_hair_curtain_long_ear_tuck_left"   | "curtain_06"      |
+| "male_hair_curtain_long_ear_tuck_right"  | "curtain_07"      |
+| "male_hair_curtain_long_no_part"         | "slicked_01"      |
+| "male_hair_curtain_long_part_left"       | "curtain_08"      |
+| "male_hair_curtain_long_part_right"      | "curtain_09"      |
+| "male_hair_curtain_long_short"           | "curtain_10"      |
+| "male_hair_fauxhawk_1"                   | "mohawk_01"       |
+| "male_hair_generic_1"                    | "pompadour_02"    |
+| "male_hair_long_messy_1"                 | "frenchcrop_01"   |
+| "male_hair_mohawk_1"                     | "mohawk_02"       |
+| "male_hair_quiff_1"                      | "quiff_02"        |
+| "male_hair_short_curly_1 "               | "buzzcut_01"      |
+| "male_hair_short_fadepart"               | "buzzcut_02"      |
+| "male_hair_short_frenchcrop"             | "frenchcrop_02"   |
+| "male_hair_short_messy_1"                | "frenchcrop_03"   |
+| "male_hair_short_sweptback_1"            | "pompadour_01"    |
+| "male_long_straight"                     | "layered_06"      |
 
 Valid hair colors:
 
