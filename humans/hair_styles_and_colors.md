@@ -56,17 +56,6 @@ Mapping of old hair styles to new hair styles:
 | "female_hair_mid_messy_1"                | "messy_01"        |
 | "female_hair_short_90s"                  | "convertible_01"  |
 | "male_hair_combover_1"                   | "quiff_01"        |
-| "male_hair_curtain_long"                 | "curtain_01"      |
-| "male_hair_curtain_long_cover_eye_both"  | "curtain_02"      |
-| "male_hair_curtain_long_cover_eye_left"  | "curtain_03"      |
-| "male_hair_curtain_long_cover_eye_right" | "curtain_04"      |
-| "male_hair_curtain_long_ear_tuck_both"   | "curtain_05"      |
-| "male_hair_curtain_long_ear_tuck_left"   | "curtain_06"      |
-| "male_hair_curtain_long_ear_tuck_right"  | "curtain_07"      |
-| "male_hair_curtain_long_no_part"         | "slicked_01"      |
-| "male_hair_curtain_long_part_left"       | "curtain_08"      |
-| "male_hair_curtain_long_part_right"      | "curtain_09"      |
-| "male_hair_curtain_long_short"           | "curtain_10"      |
 | "male_hair_fauxhawk_1"                   | "mohawk_01"       |
 | "male_hair_generic_1"                    | "pompadour_02"    |
 | "male_hair_long_messy_1"                 | "frenchcrop_01"   |
