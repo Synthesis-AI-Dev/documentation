@@ -4,6 +4,19 @@ Valid hair styles:
 
 ```json
 [
+  "afro_01",
+  "afro_02",
+  "afro_03",
+  "afro_04",
+  "afro_05",
+  "afro_06",
+  "afro_07",
+  "afro_08",
+  "afro_09",
+  "afro_10",
+  "afro_11",
+  "afro_12",
+  "afro_13",
   "bob_01",
   "bob_02",
   "buzzcut_01",
