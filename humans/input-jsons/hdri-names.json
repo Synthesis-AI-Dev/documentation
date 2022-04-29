@@ -19,27 +19,7 @@
             ]
           }
         }
-      },
-      "camera_and_light_rigs": [
-        {
-          "cameras": [
-            {
-              "specifications": {
-                "resolution_w": 512,
-                "resolution_h": 512
-              }
-            }
-          ],
-          "location": {
-            "z": {
-              "type": "list",
-              "values": [
-                1
-              ]
-            }
-          }
-        }
-      ]
+      }
     }
   ]
 }
