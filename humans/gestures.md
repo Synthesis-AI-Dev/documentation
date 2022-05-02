@@ -36,12 +36,14 @@ Gesture with their frame Count at 30 frames per second:
 | counting_out_3                    | 150         |
 | counting_out_4                    | 150         |
 | counting_out_5                    | 150         |
+| crescent_lunge                    | 301         |
 | default                           | 1           |
 | downward_facing_dog_pose          | 151         |
 | drink_from_cup                    | 134         |
 | drink_from_glass                  | 141         |
 | elbow_bump                        | 55          |
 | extended_hand_to_big_toe_pose     | 195         |
+| flat_back_pose                    | 301         |
 | forearm_side_plank_pose           | 230         |
 | general_looking                   | 126         |
 | getting_ready                     | 400         |
@@ -52,6 +54,7 @@ Gesture with their frame Count at 30 frames per second:
 | hand_talking_4                    | 213         |
 | hand_to_big_toe_pose              | 178         |
 | hands_behind_head                 | 76          |
+| headstand_tripod_pose             | 301         |
 | heroine_lookaround                | 150         |
 | high_five                         | 40          |
 | high_rhythm_dance_01              | 601         |
@@ -145,7 +148,9 @@ Gesture with their frame Count at 30 frames per second:
 | short_dance_07                    | 247         |
 | short_dance_08                    | 283         |
 | shrug_hands_out                   | 44          |
+| side_angle_pose                   | 301         |
 | side_bends_01                     | 185         |
+| side_plank_pose                   | 301         |
 | sit_to_stand                      | 106         |
 | slow_rhythm_dance_01              | 538         |
 | slow_rhythm_dance_02              | 460         |
@@ -169,6 +174,7 @@ Gesture with their frame Count at 30 frames per second:
 | stretch                           | 216         |
 | stretch_arms_1                    | 83          |
 | stretch_arms_3                    | 102         |
+| tadasana_pose                     | 301         |
 | thumbs_down                       | 60          |
 | thumbs_up                         | 68          |
 | two_hand_phone_usage              | 292         |
@@ -379,6 +385,9 @@ Gesture with their frame Count at 30 frames per second:
 | walk_in_place                     | 71          |
 | walking                           | 101         |
 | walking_towards_door              | 65          |
+| warrior_pose_01                   | 301         |
+| warrior_pose_02                   | 301         |
+| warrior_pose_03                   | 301         |
 | wave                              | 54          |
 | wave_hello                        | 48          |
 | waving_arms_celebration           | 106         |
