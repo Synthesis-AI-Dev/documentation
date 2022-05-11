@@ -4,18 +4,24 @@ Valid hair styles:
 
 |   Hair style   |   Gender    |
 |----------------|-------------|
+| afro_01        | female,male |
+| afro_02        | female,male |
+| afro_03        | female      |
+| afro_04        | female,male |
+| afro_05        | female,male |
+| afro_06        | female      |
+| afro_07        | female      |
+| afro_08        | female,male |
+| afro_09        | female,male |
+| afro_10        | female,male |
+| afro_11        | female,male |
+| afro_12        | female,male |
+| afro_13        | female,male |
 | bob_01         | female      |
-| layered_01     | female,male |
-| layered_02     | female,male |
-| layered_03     | female,male |
-| simple_01      | female,male |
-| layered_04     | female,male |
-| simple_02      | female,male |
-| layered_05     | female,male |
-| bob_02         | female,male |
-| messy_01       | female,male |
+| bob_02         | female      |
+| buzzcut_01     | female,male |
+| buzzcut_02     | male        |
 | convertible_01 | female,male |
-| quiff_01       | female,male |
 | curtain_01     | female,male |
 | curtain_02     | female,male |
 | curtain_03     | female,male |
@@ -23,33 +29,28 @@ Valid hair styles:
 | curtain_05     | female,male |
 | curtain_06     | female,male |
 | curtain_07     | female,male |
-| slicked_01     | female,male |
 | curtain_08     | female,male |
 | curtain_09     | female,male |
-| curtain_10     | female,male |
-| mohawk_01      | male        |
-| frenchcrop_01  | female,male |
+| curtain_10     | female      |
+| frenchcrop_01  | male        |
+| frenchcrop_02  | male        |
+| frenchcrop_03  | male        |
+| layered_01     | female      |
+| layered_02     | female      |
+| layered_03     | female      |
+| layered_04     | female      |
+| layered_05     | female      |
 | layered_06     | female,male |
+| messy_01       | female,male |
+| mohawk_01      | male        |
 | mohawk_02      | male        |
-| quiff_02       | female,male |
-| buzzcut_01     | female,male |
-| buzzcut_02     | female,male |
-| frenchcrop_02  | female,male |
-| frenchcrop_03  | female,male |
-| pompadour_01   | female,male |
-| afro_01        | female,male |
-| afro_02        | female,male |
-| afro_03        | female,male |
-| afro_04        | female,male |
-| afro_05        | female,male |
-| afro_06        | female,male |
-| afro_07        | female,male |
-| afro_08        | female,male |
-| afro_09        | female,male |
-| afro_10        | female,male |
-| afro_11        | female,male |
-| afro_12        | female,male |
-| afro_13        | female,male |
+| pompadour_01   | male        |
+| pompadour_02   | male        |
+| quiff_01       | male        |
+| quiff_02       | male        |
+| simple_01      | female      |
+| simple_02      | female      |
+| slicked_01     | female,male |
 
 Mapping of old hair styles to new hair styles:
 
