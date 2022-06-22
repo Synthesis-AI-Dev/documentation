@@ -9,6 +9,7 @@ Gesture with their frame Count at 30 frames per second:
 | air_swipe                         | 19          |
 | answer_phone_talk                 | 371         |
 | apply_lipstick                    | 237         |
+| arms_crossed_idle_01              | 307         |
 | arms_X                            | 60          |
 | arms_X_head_shake                 | 60          |
 | back_bend_01                      | 416         |
@@ -42,6 +43,7 @@ Gesture with their frame Count at 30 frames per second:
 | drink_from_cup                    | 134         |
 | drink_from_glass                  | 141         |
 | elbow_bump                        | 55          |
+| exercise_step_back_stretch        | 418         |
 | extended_hand_to_big_toe_pose     | 1           |
 | flat_back_pose                    | 301         |
 | forearm_side_plank_pose           | 230         |
