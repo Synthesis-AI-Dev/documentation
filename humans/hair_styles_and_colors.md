@@ -41,7 +41,6 @@ Valid hair styles:
   "curtain_07",
   "curtain_08",
   "curtain_09",
-  "curtain_10",
   "frenchcrop_01",
   "frenchcrop_02",
   "frenchcrop_03",
