@@ -12,8 +12,8 @@
         "eyebrows": [
           {
             "style": [
-              "male_manicured_broad_1",
-              "female_manicured_broad_1"
+              "broad_03",
+              "broad_01"
             ],
             "relative_length": {
               "type": "list",

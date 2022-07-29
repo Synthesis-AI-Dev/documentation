@@ -8,6 +8,8 @@
         "renders_per_identity": 50
       },
       "facial_attributes": {
+        "head_turn": [
+          {
             "roll": {
               "type": "range",
               "values": {
@@ -42,3 +44,4 @@
     }
   ]
 }
+

@@ -8,7 +8,6 @@
 				"renders_per_identity": 1
 			},
 			"body": [{
-				"match_id_body_type": false,
 				"height": [
 					"shortest"
 				],
@@ -44,7 +43,6 @@
 				"renders_per_identity": 1
 			},
 			"body": [{
-				"match_id_body_type": false,
 				"height": [
 					"shorter"
 				],
@@ -80,7 +78,6 @@
 				"renders_per_identity": 1
 			},
 			"body": [{
-				"match_id_body_type": false,
 				"height": [
 					"short"
 				],
@@ -116,7 +113,6 @@
 				"renders_per_identity": 1
 			},
 			"body": [{
-				"match_id_body_type": false,
 				"height": [
 					"median"
 				],
@@ -152,7 +148,6 @@
 				"renders_per_identity": 1
 			},
 			"body": [{
-				"match_id_body_type": false,
 				"height": [
 					"tall"
 				],
@@ -188,7 +183,6 @@
 				"renders_per_identity": 1
 			},
 			"body": [{
-				"match_id_body_type": false,
 				"height": [
 					"taller"
 				],
@@ -224,7 +218,6 @@
 				"renders_per_identity": 1
 			},
 			"body": [{
-				"match_id_body_type": false,
 				"height": [
 					"tallest"
 				],

@@ -345,7 +345,7 @@
             "relative_length": {
               "type": "range",
               "values": {
-                "min": 0.05,
+                "min": 0.5,
                 "max": 1.0
               }
             },
@@ -424,14 +424,9 @@
               0.1
             ]
           }
-        },
-        "location": {
-          "enabled": [
-            "false"
-          ]
-        },
-        "geometry": "vehicle"
+        }
       },
+      "3d_location": [{"specifications": {"type": "vehicle"}}],
       "camera_and_light_rigs": [
         {
           "cameras": [
@@ -761,7 +756,7 @@
             "relative_length": {
               "type": "range",
               "values": {
-                "min": 0.05,
+                "min": 0.5,
                 "max": 1.0
               }
             },
@@ -840,14 +835,9 @@
               0.1
             ]
           }
-        },
-        "location": {
-          "enabled": [
-            "false"
-          ]
-        },
-        "geometry": "vehicle"
+        }
       },
+      "3d_location": [{"specifications": {"type": "vehicle"}}],
       "camera_and_light_rigs": [
         {
           "cameras": [
