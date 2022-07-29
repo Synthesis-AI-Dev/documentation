@@ -10,7 +10,6 @@
       },
       "body": [
         {
-          "match_id_body_type": false,
           "fat_content": [
             "lowest"
           ],
@@ -52,7 +51,6 @@
       },
       "body": [
         {
-          "match_id_body_type": false,
           "fat_content": [
             "lower"
           ],
@@ -94,7 +92,6 @@
       },
       "body": [
         {
-          "match_id_body_type": false,
           "fat_content": [
             "median"
           ],
@@ -136,7 +133,6 @@
       },
       "body": [
         {
-          "match_id_body_type": false,
           "fat_content": [
             "higher"
           ],
@@ -178,7 +174,6 @@
       },
       "body": [
         {
-          "match_id_body_type": false,
           "fat_content": [
             "highest"
           ],

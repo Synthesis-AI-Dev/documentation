@@ -12,7 +12,12 @@
           "name": [
             "wave"
           ],
-          "position_seed": 2,
+          "position_seed": {
+              "type": "list",
+              "values": [
+                2
+              ]
+            },
           "percent": 100
         }
       ],

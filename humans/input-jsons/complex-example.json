@@ -134,8 +134,8 @@
         "eyebrows": [
           {
             "style": [
-              "male_manicured_thick_1",
-              "female_manicured_curve_1"
+              "thick_01",
+              "curve_01"
             ],
             "relative_length": {
               "type": "range",
@@ -226,7 +226,6 @@
       "body": [
         {
           "enabled": true,
-          "match_id_body_type": true,
           "height": [
             "median"
           ],
@@ -243,7 +242,12 @@
           ],
           "keyframe_only": false,
           "mirrored": false,
-          "position_seed": 0,
+          "position_seed": {
+            "type": "list",
+            "values": [
+              0
+            ]
+          },
           "percent": 100
         }
       ],
@@ -269,29 +273,6 @@
             ]
           },
           "rotation": {
-            "type": "list",
-            "values": [
-              0
-            ]
-          }
-        },
-        "location": {
-          "enabled": [
-            "false"
-          ],
-          "id": [
-            "0"
-          ],
-          "indoor_light_enabled": [
-            "false"
-          ],
-          "head_position_seed": {
-            "type": "list",
-            "values": [
-              0
-            ]
-          },
-          "facing_direction": {
             "type": "list",
             "values": [
               0
