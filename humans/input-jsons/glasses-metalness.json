@@ -32,7 +32,7 @@
                 1.0
               ]
             },
-            "sex_matched_only": true,
+            "sex_matched_only": false,
             "percent": 100
           }
         ]
