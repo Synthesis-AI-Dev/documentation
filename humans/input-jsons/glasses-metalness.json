@@ -36,13 +36,6 @@
             "percent": 100
           }
         ]
-      },
-      "environment": {
-        "location": {
-          "enabled": [
-            "false"
-          ]
-        }
       }
     }
   ]
