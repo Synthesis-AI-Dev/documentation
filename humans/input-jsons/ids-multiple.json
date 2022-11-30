@@ -340,20 +340,6 @@
 			],
 			"renders_per_identity": 1
 		},
-		"facial_attributes": {
-			"hair": [{
-				"style": ["none"]
-			}],
-			"facial_hair": [{
-				"style": ["none"]
-			}]
-		},
-		"clothing": [
-			{
-				"outfit": [
-					"jeans_and_hoodie_2"
-				]
-			}],
 		"environment": {
 			"hdri": {
 				"name": ["canada_montreal_nad_cafeteria"],
