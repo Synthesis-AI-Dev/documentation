@@ -45,7 +45,7 @@
 		"look_left","look_right","wave","chat_left","chat_right","chat_side",
 		"hand_talking_2","hand_talking_3","hand_talking_4","high_five",
 		"keyboard_typing","ok","point_finger_at","pointing_vertical_surface",
-		"shake_hand_no","shrug_hands_out","thumbs_down","thumbs_up","typing",
+		"shrug_hands_out","thumbs_down","thumbs_up","typing",
 		"wave_hello","writing_horizontal"
         ],
         "percent": 100
@@ -143,7 +143,7 @@
 		"look_left","look_right","wave","chat_left","chat_right","chat_side",
 		"hand_talking_2","hand_talking_3","hand_talking_4","high_five",
 		"keyboard_typing","ok","point_finger_at","pointing_vertical_surface",
-		"shake_hand_no","shrug_hands_out","thumbs_down","thumbs_up","typing",
+		"shrug_hands_out","thumbs_down","thumbs_up","typing",
 		"wave_hello","writing_horizontal"
         ],
         "percent": 100
