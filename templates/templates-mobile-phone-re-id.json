@@ -1,6 +1,8 @@
 {
 	"humans": [{
-		"identities": {"ids": [11,21,29,31,33,35,37,39,41,43],"renders_per_identity": 10},
+		"identities": {"ids": [
+			321,342,161,63,174,
+			186,567,230,242,590],"renders_per_identity": 10},
 		"accessories": {
 		  "glasses": [{
 			"style": ["all"],
