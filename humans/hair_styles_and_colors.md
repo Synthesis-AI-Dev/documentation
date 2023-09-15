@@ -2,92 +2,91 @@
 
 Valid hair styles:
 
-```json
-[
-  "afro_01",
-  "afro_02",
-  "afro_03",
-  "afro_04",
-  "afro_05",
-  "afro_06",
-  "afro_07",
-  "afro_08",
-  "afro_09",
-  "afro_10",
-  "afro_11",
-  "afro_12",
-  "afro_13",
-  "bob_01",
-  "bob_02",
-  "bob_03",
-  "bob_04",
-  "bob_05",
-  "bob_06",
-  "bob_07",
-  "bob_08",
-  "bob_09",
-  "bob_10",
-  "bob_11",
-  "bob_12",
-  "bob_13",
-  "bob_14",
-  "bob_15",
-  "bob_16",
-  "bob_17",
-  "bob_18",
-  "bob_19",
-  "bob_20",
-  "bob_21",
-  "bob_22",
-  "bob_23",
-  "bob_24",
-  "bob_25",
-  "bob_26",
-  "bob_27",
-  "bob_28",
-  "buzzcut_01",
-  "buzzcut_02",
-  "convertible_01",
-  "curtain_01",
-  "curtain_02",
-  "curtain_03",
-  "curtain_04",
-  "curtain_05",
-  "curtain_06",
-  "curtain_07",
-  "curtain_08",
-  "curtain_09",
-  "frenchcrop_01",
-  "frenchcrop_02",
-  "frenchcrop_03",
-  "layered_01",
-  "layered_02",
-  "layered_03",
-  "layered_04",
-  "layered_05",
-  "layered_06",
-  "long_wavy_01",
-  "long_wavy_02",
-  "long_wavy_03",
-  "long_wavy_04",
-  "long_wavy_05",
-  "messy_01",
-  "mohawk_01",
-  "mohawk_02",
-  "pompadour_01",
-  "pompadour_02",
-  "quiff_01",
-  "quiff_02",
-  "short_wavy_01",
-  "short_wavy_02",
-  "short_wavy_03",
-  "short_wavy_04",
-  "short_wavy_05",
-  "simple_01",
-  "simple_02",
-  "slicked_01"
-]
-```
+|     Name	      |       Sex	    |                  Ethnicity            |
+|-----------------|---------------|---------------------------------------|
+|  afro_01	      |  female,male	|   black                               |
+|  afro_02	      |  female,male	|   black                               |
+|  afro_03	      |  female	      |   black                               |
+|  afro_04	      |  female,male	|   black                               |
+|  afro_05	      |  female,male	|   black                               |
+|  afro_06	      |  female	      |   black                               |
+|  afro_07	      |  female	      |   black                               |
+|  afro_08	      |  female,male	|   black                               |
+|  afro_09	      |  female,male	|   black                               |
+|  afro_10	      |  female,male	|   black                               |
+|  afro_11	      |  female,male	|   black                               |
+|  afro_12	      |  female,male	|   black                               |
+|  afro_13	      |  female,male	|   black                               |
+|  bob_01	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_02	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_03	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_04	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_05	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_06	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_07	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_08	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_09	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_10	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_11	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_12	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_13	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_14	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_15	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_16	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_17	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_18	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_19	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_20	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_21	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_22	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_23	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_24	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_25	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_26	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_27	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  bob_28	        |  female	      |   arab,asian,black,hisp,indian,white  |
+|  buzzcut_01	    |  female,male  |   black                               |
+|  buzzcut_02	    |  male	        |   black                               |
+|  convertible_01	|  female,male  |   arab,asian,hisp,indian,white        |
+|  curtain_01	    |  female,male  |   arab,asian,hisp,indian,white        |
+|  curtain_02	    |  female,male  |   arab,asian,hisp,indian,white        |
+|  curtain_03	    |  female,male  |   arab,asian,hisp,indian,white        |
+|  curtain_04	    |  female,male  |   arab,asian,hisp,indian,white        |
+|  curtain_05	    |  female,male  |   arab,asian,hisp,indian,white        |
+|  curtain_06	    |  female,male  |   arab,asian,hisp,indian,white        |
+|  curtain_07	    |  female,male  |   arab,asian,hisp,indian,white        |
+|  curtain_08	    |  female,male  |   arab,asian,hisp,indian,white        |
+|  curtain_09	    |  female,male  |   arab,asian,hisp,indian,white        |
+|  frenchcrop_01	|  male	        |   arab,asian,hisp,indian,white        |
+|  frenchcrop_02	|  male	        |   arab,asian,hisp,indian,white        |
+|  frenchcrop_03	|  male	        |   arab,asian,hisp,indian,white        |
+|  layered_01	    |  female	      |   arab,asian,black,hisp,indian,white  |
+|  layered_02	    |  female	      |   arab,asian,black,hisp,indian,white  |
+|  layered_03	    |  female	      |   arab,asian,black,hisp,indian,white  |
+|  layered_04	    |  female	      |   arab,asian,black,hisp,indian,white  |
+|  layered_05	    |  female	      |   arab,asian,black,hisp,indian,white  |
+|  layered_06	    |  female,male  |   arab,asian,hisp,indian,white        |
+|  messy_01	      |  female,male  |   arab,asian,hisp,indian,white        |
+|  mohawk_01	    |  male	        |   arab,asian,hisp,indian,white        |
+|  mohawk_02	    |  male	        |   arab,asian,hisp,indian,white        |
+|  pompadour_01	  |  male	        |   arab,asian,hisp,indian,white        |
+|  pompadour_02	  |  male	        |   arab,asian,hisp,indian,white        |
+|  quiff_01	      |  male	        |   arab,asian,hisp,indian,white        |
+|  quiff_02	      |  male	        |   arab,asian,hisp,indian,white        |
+|  simple_01	    |  female	      |   arab,asian,black,hisp,indian,white  |
+|  simple_02	    |  female	      |   arab,asian,black,hisp,indian,white  |
+|  slicked_01	    |  female,male  |   arab,asian,black,hisp,indian,white  |
+|  long_wavy_01	  |  female	      |   arab,asian,black,hisp,indian,white  |
+|  long_wavy_02	  |  female	      |   arab,asian,black,hisp,indian,white  |
+|  long_wavy_03	  |  female	      |   arab,asian,black,hisp,indian,white  |
+|  long_wavy_04	  |  female	      |   arab,asian,black,hisp,indian,white  |
+|  long_wavy_05	  |  female	      |   arab,asian,black,hisp,indian,white  |
+|  short_wavy_01	|  female	      |   arab,asian,black,hisp,indian,white  |
+|  short_wavy_02	|  female	      |   arab,asian,black,hisp,indian,white  |
+|  short_wavy_03	|  female	      |   arab,asian,black,hisp,indian,white  |
+|  short_wavy_04	|  female	      |   arab,asian,black,hisp,indian,white  |
+|  short_wavy_05	|  female	      |   arab,asian,black,hisp,indian,white  |
+
 Mapping of old hair styles to new hair styles:
 
 |           Old hair style                 |   New hair style  |
