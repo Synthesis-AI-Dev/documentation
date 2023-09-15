@@ -1,6 +1,6 @@
 # Hair Styles & Colors
 
-Valid hair styles:
+Each hair style is tagged with one or more sexes and ethnicities, which correspond to the `sex_matched_only` and `ethnicity_matched_only` filters, removing any non-matching items from the list prior to randomized selection.
 
 |     Name	      |       Sex	    |                  Ethnicity            |
 |-----------------|---------------|---------------------------------------|
